@@ -453,7 +453,7 @@ def main():
             if file.endswith("tsv"):
                 genome_id = re.sub("_region.+", genome_suffix, file)
                 genome_path = os.path.join(args.inDir, genome_id)
-                outfile = re.sub("tsv", "gb", file)
+                outfile = re.sub("tsv", "gbk", file)
                 read_region(
                     os.path.join(out_plot, file),
                     genome_path,
