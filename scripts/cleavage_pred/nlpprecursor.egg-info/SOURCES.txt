@@ -1,0 +1,13 @@
+README.md
+setup.py
+nlpprecursor/__init__.py
+nlpprecursor/utils.py
+nlpprecursor.egg-info/PKG-INFO
+nlpprecursor.egg-info/SOURCES.txt
+nlpprecursor.egg-info/dependency_links.txt
+nlpprecursor.egg-info/top_level.txt
+nlpprecursor/annotation/models/__init__.py
+nlpprecursor/annotation/models/crf.py
+nlpprecursor/annotation/models/lstm_crf.py
+nlpprecursor/classification/tests/__init__.py
+nlpprecursor/classification/tests/tests.py
