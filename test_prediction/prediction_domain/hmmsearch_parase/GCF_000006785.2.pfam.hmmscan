@@ -1,0 +1,15 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Bacteriocin_IIc      PF10439.12 NC_002737.2_373      -            2.8e-12   46.6  11.2   2.8e-12   46.6  11.2   1.9   1   1   1   2   2   1   1 Bacteriocin class II with double-glycine leader peptide
+Bacteriocin_IIc      PF10439.12 NC_002737.2_377      -            1.8e-12   47.2   0.7   1.8e-12   47.2   0.7   1.0   1   0   0   1   1   1   1 Bacteriocin class II with double-glycine leader peptide
+#
+# Program:         hmmscan
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SCAN
+# Query file:      /data3/zhangdw/bac_test/test_prediction/prediction_domain/hmmsearch_parase/GCF_000006785.2.fa
+# Target file:     /data3/zhangdw/bac_test/IIBacFinder/domains/Pfam-A.hmm
+# Option settings: hmmscan --tblout /data3/zhangdw/bac_test/test_prediction/prediction_domain/hmmsearch_parase/GCF_000006785.2.pfam.hmmscan --cut_ga /data3/zhangdw/bac_test/IIBacFinder/domains/Pfam-A.hmm /data3/zhangdw/bac_test/test_prediction/prediction_domain/hmmsearch_parase/GCF_000006785.2.fa 
+# Current dir:     /data3/zhangdw/bac_test
+# Date:            Mon Dec  9 19:04:06 2024
+# [ok]

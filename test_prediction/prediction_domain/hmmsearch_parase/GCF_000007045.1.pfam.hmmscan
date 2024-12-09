@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Lactococcin_972      PF09683.13 NC_003098.1_592      -            1.5e-17   64.0  15.7   2.1e-17   63.5  15.7   1.2   1   0   0   1   1   1   1 Bacteriocin (Lactococcin_972)
+Bacteriocin_IIc      PF10439.12 NC_003098.1_37       -            2.3e-15   56.5   9.3   2.3e-15   56.5   9.3   1.4   1   1   0   1   1   1   1 Bacteriocin class II with double-glycine leader peptide
+ComC                 PF03047.17 NC_003098.1_37       -             0.0001   22.1   0.2   0.00022   21.0   0.2   1.6   1   0   0   1   1   1   1 COMC family
+ComC                 PF03047.17 NC_003098.1_459      -            5.1e-15   54.8   4.1   9.1e-15   54.0   4.1   1.4   1   0   0   1   1   1   1 COMC family
+ComC                 PF03047.17 NC_003098.1_125      -            2.4e-05   24.0   0.3   3.1e-05   23.7   0.3   1.2   1   0   0   1   1   1   1 COMC family
+ComC                 PF03047.17 NC_003098.1_2002     -            4.3e-15   55.0   0.6     5e-15   54.8   0.6   1.1   1   0   0   1   1   1   1 COMC family
+Lactococcin_972      PF09683.13 NC_003098.1_95       -            8.4e-24   84.0   2.3     1e-23   83.8   2.3   1.1   1   0   0   1   1   1   1 Bacteriocin (Lactococcin_972)
+#
+# Program:         hmmscan
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SCAN
+# Query file:      /data3/zhangdw/bac_test/test_prediction/prediction_domain/hmmsearch_parase/GCF_000007045.1.fa
+# Target file:     /data3/zhangdw/bac_test/IIBacFinder/domains/Pfam-A.hmm
+# Option settings: hmmscan --tblout /data3/zhangdw/bac_test/test_prediction/prediction_domain/hmmsearch_parase/GCF_000007045.1.pfam.hmmscan --cut_ga /data3/zhangdw/bac_test/IIBacFinder/domains/Pfam-A.hmm /data3/zhangdw/bac_test/test_prediction/prediction_domain/hmmsearch_parase/GCF_000007045.1.fa 
+# Current dir:     /data3/zhangdw/bac_test
+# Date:            Mon Dec  9 19:04:10 2024
+# [ok]

@@ -1,0 +1,26 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Bacteriocin_IIc      PF10439.12 NC_003028.3_505      -            5.3e-09   36.1  20.1   1.1e-06   28.6  20.1   2.1   1   1   0   1   1   1   1 Bacteriocin class II with double-glycine leader peptide
+Bacteriocin_IIc      PF10439.12 NC_003028.3_40       -            9.3e-16   57.7   9.2   9.3e-16   57.7   9.2   1.4   1   1   0   1   1   1   1 Bacteriocin class II with double-glycine leader peptide
+ComC                 PF03047.17 NC_003028.3_40       -            0.00017   21.3   0.2   0.00038   20.2   0.2   1.6   1   0   0   1   1   0   0 COMC family
+ComC                 PF03047.17 NC_003028.3_493      -            5.8e-14   51.4   3.0   6.7e-14   51.2   3.0   1.1   1   0   0   1   1   1   1 COMC family
+Lactococcin_972      PF09683.13 NC_003028.3_99       -            5.4e-21   75.0   5.5   6.8e-21   74.7   5.5   1.1   1   0   0   1   1   1   1 Bacteriocin (Lactococcin_972)
+Bacteriocin_IIc      PF10439.12 NC_003028.3_500      -            5.3e-15   55.3  12.5   5.3e-15   55.3  12.5   1.4   1   1   0   1   1   1   1 Bacteriocin class II with double-glycine leader peptide
+Bacteriocin_IIc      PF10439.12 NC_003028.3_499      -            5.6e-10   39.2  20.5   5.7e-09   36.0  20.5   2.0   1   1   0   1   1   1   1 Bacteriocin class II with double-glycine leader peptide
+ComC                 PF03047.17 NC_003028.3_2138     -            9.4e-14   50.8   0.2   1.1e-13   50.6   0.2   1.1   1   0   0   1   1   1   1 COMC family
+Bacteriocin_IIc      PF10439.12 NC_003028.3_498      -            3.2e-09   36.8   4.8   4.3e-09   36.4   4.8   1.2   1   0   0   1   1   1   1 Bacteriocin class II with double-glycine leader peptide
+ComC                 PF03047.17 NC_003028.3_498      -            2.1e-05   24.2   2.6   2.6e-05   24.0   1.1   1.8   2   0   0   2   2   1   1 COMC family
+Bacteriocin_IIc      PF10439.12 NC_003028.3_506      -              7e-09   35.7  10.7   7.5e-09   35.6  10.7   1.0   1   0   0   1   1   1   1 Bacteriocin class II with double-glycine leader peptide
+ComC                 PF03047.17 NC_003028.3_114      -            0.00015   21.5   0.2   0.00019   21.2   0.2   1.2   1   0   0   1   1   1   1 COMC family
+Bacteriocin_IIc      PF10439.12 NC_003028.3_507      -            8.3e-08   32.3   0.7   9.5e-08   32.1   0.7   1.1   1   0   0   1   1   1   1 Bacteriocin class II with double-glycine leader peptide
+#
+# Program:         hmmscan
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SCAN
+# Query file:      /data3/zhangdw/bac_test/test_prediction/prediction_domain/hmmsearch_parase/GCF_000006885.1.fa
+# Target file:     /data3/zhangdw/bac_test/IIBacFinder/domains/Pfam-A.hmm
+# Option settings: hmmscan --tblout /data3/zhangdw/bac_test/test_prediction/prediction_domain/hmmsearch_parase/GCF_000006885.1.pfam.hmmscan --cut_ga /data3/zhangdw/bac_test/IIBacFinder/domains/Pfam-A.hmm /data3/zhangdw/bac_test/test_prediction/prediction_domain/hmmsearch_parase/GCF_000006885.1.fa 
+# Current dir:     /data3/zhangdw/bac_test
+# Date:            Mon Dec  9 19:04:15 2024
+# [ok]

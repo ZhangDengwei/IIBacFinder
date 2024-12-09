@@ -1,0 +1,6 @@
+## gff-version 3
+GCF_000006785.2_+_NC_002737.2_141	SignalP-6.0	signal_peptide	1	31	0.9128035	.	.	.
+GCF_000006785.2_+_NC_002737.2_140	SignalP-6.0	signal_peptide	1	30	0.9952912	.	.	.
+GCF_000007045.1_+_NC_003098.1_592	SignalP-6.0	signal_peptide	1	41	0.99842596	.	.	.
+GCF_000007045.1_+_NC_003098.1_95	SignalP-6.0	signal_peptide	1	13	0.995239	.	.	.
+GCF_000006885.1_+_NC_003028.3_99	SignalP-6.0	signal_peptide	1	25	0.9968497	.	.	.

@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+lactococcin_972      TIGR01653.1 NC_003098.1_592      -            1.2e-13   50.9   3.6   1.4e-13   50.7   3.6   1.1   1   0   0   1   1   1   1 JCVI: lactococcin 972 family bacteriocin
+bacteriocin_sig      TIGR01847.1 NC_003098.1_37       -              0.014   15.7   2.2     0.041   14.3   0.0   2.5   3   0   0   3   3   1   1 JCVI: bacteriocin
+bact_IIb_cerein      TIGR03949.1 NC_003098.1_126      -            3.6e-09   36.0   4.2   6.1e-09   35.3   4.2   1.4   1   0   0   1   1   1   1 JCVI: class IIb bacteriocin, lactobin A/cerein 7B family
+BlpC_Streptocco      NF033215.1  NC_003098.1_459      -            6.4e-32  108.9   3.7   6.9e-32  108.7   3.7   1.0   1   0   0   1   1   1   1 NCBIFAM: quorum-sensing system pheromone BlpC
+bacteriocin_sig      TIGR01847.1 NC_003098.1_459      -            0.00016   21.7   0.3   0.00054   20.0   0.3   1.9   1   0   0   1   1   1   1 JCVI: bacteriocin
+bacteriocin_sig      TIGR01847.1 NC_003098.1_125      -             0.0019   18.4   0.5     0.004   17.4   0.1   1.8   2   0   0   2   2   1   1 JCVI: bacteriocin
+ComC_Streptocco      NF033214.1 NC_003098.1_2002     -            4.7e-25   86.7   6.3     5e-25   86.6   6.3   1.0   1   0   0   1   1   1   1 NCBIFAM: competence-stimulating peptide ComC
+lactococcin_972      TIGR01653.1 NC_003098.1_95       -            3.1e-18   65.5   0.4   3.5e-18   65.4   0.4   1.0   1   0   0   1   1   1   1 JCVI: lactococcin 972 family bacteriocin
+#
+# Program:         hmmscan
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SCAN
+# Query file:      /data3/zhangdw/bac_test/test_prediction/prediction_domain/hmmsearch_parase/GCF_000007045.1.fa
+# Target file:     /data3/zhangdw/bac_test/IIBacFinder/domains/hmm_PGAP.LIB
+# Option settings: hmmscan --tblout /data3/zhangdw/bac_test/test_prediction/prediction_domain/hmmsearch_parase/GCF_000007045.1.ncbi.hmmscan --cut_ga /data3/zhangdw/bac_test/IIBacFinder/domains/hmm_PGAP.LIB /data3/zhangdw/bac_test/test_prediction/prediction_domain/hmmsearch_parase/GCF_000007045.1.fa 
+# Current dir:     /data3/zhangdw/bac_test
+# Date:            Mon Dec  9 19:04:17 2024
+# [ok]

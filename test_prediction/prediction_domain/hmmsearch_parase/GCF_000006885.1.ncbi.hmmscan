@@ -1,0 +1,22 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession   query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#-------------------  ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+bacteriocin_sig      TIGR01847.1 NC_003028.3_505      -              0.014   15.8   0.0     0.033   14.6   0.0   1.7   1   0   0   1   1   1   1 JCVI: bacteriocin
+BlpC_Streptocco      NF033215.1  NC_003028.3_493      -            2.6e-28   97.3   2.2   2.8e-28   97.2   2.2   1.0   1   0   0   1   1   1   1 NCBIFAM: quorum-sensing system pheromone BlpC
+bacteriocin_sig      TIGR01847.1 NC_003028.3_493      -            0.00019   21.5   0.3   0.00037   20.6   0.3   1.5   1   0   0   1   1   1   1 JCVI: bacteriocin
+lactococcin_972      TIGR01653.1 NC_003028.3_99       -            1.8e-28   98.4   0.6     2e-28   98.3   0.6   1.0   1   0   0   1   1   1   1 JCVI: lactococcin 972 family bacteriocin
+bacteriocin_sig      TIGR01847.1 NC_003028.3_500      -              0.012   16.0   0.7     0.062   13.7   0.0   2.4   3   0   0   3   3   0   0 JCVI: bacteriocin
+ComC_Streptocco      NF033214.1 NC_003028.3_2138     -            7.2e-25   86.1   4.4   7.8e-25   86.0   4.4   1.0   1   0   0   1   1   1   1 NCBIFAM: competence-stimulating peptide ComC
+bact_IIb_cerein      TIGR03949.1 NC_003028.3_498      -            9.4e-16   57.1   7.6   1.3e-15   56.7   7.6   1.2   1   0   0   1   1   1   1 JCVI: class IIb bacteriocin, lactobin A/cerein 7B family
+bact_IIb_cerein      TIGR03949.1 NC_003028.3_115      -            3.6e-09   36.0   4.2   6.1e-09   35.3   4.2   1.4   1   0   0   1   1   1   1 JCVI: class IIb bacteriocin, lactobin A/cerein 7B family
+bacteriocin_sig      TIGR01847.1 NC_003028.3_114      -             0.0021   18.2   0.6     0.004   17.4   0.1   1.7   2   0   0   2   2   1   1 JCVI: bacteriocin
+#
+# Program:         hmmscan
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SCAN
+# Query file:      /data3/zhangdw/bac_test/test_prediction/prediction_domain/hmmsearch_parase/GCF_000006885.1.fa
+# Target file:     /data3/zhangdw/bac_test/IIBacFinder/domains/hmm_PGAP.LIB
+# Option settings: hmmscan --tblout /data3/zhangdw/bac_test/test_prediction/prediction_domain/hmmsearch_parase/GCF_000006885.1.ncbi.hmmscan --cut_ga /data3/zhangdw/bac_test/IIBacFinder/domains/hmm_PGAP.LIB /data3/zhangdw/bac_test/test_prediction/prediction_domain/hmmsearch_parase/GCF_000006885.1.fa 
+# Current dir:     /data3/zhangdw/bac_test
+# Date:            Mon Dec  9 19:04:22 2024
+# [ok]

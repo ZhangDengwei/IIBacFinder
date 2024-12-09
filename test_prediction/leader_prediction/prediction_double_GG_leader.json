@@ -1,0 +1,316 @@
+[
+    {
+        "name": "GCF_000006785.2_+_NC_002737.2_377",
+        "cleavage_prediction": {
+            "sequence": "KNNWQANVSGVIAAGSAGAAIGFPVCGVAWS",
+            "start": 23,
+            "stop": 54,
+            "score": -19643.87890625,
+            "name": "GCF_000006785.2_+_NC_002737.2_377",
+            "status": "success"
+        }
+    },
+    {
+        "name": "GCF_000006785.2_+_NC_002737.2_374",
+        "cleavage_prediction": {
+            "sequence": "KGNIGSAIGGCLGGMLIAAAGGPITGGAAAFVCVASGIAAYQ",
+            "start": 18,
+            "stop": 60,
+            "score": -19628.46484375,
+            "name": "GCF_000006785.2_+_NC_002737.2_374",
+            "status": "success"
+        }
+    },
+    {
+        "name": "GCF_000006785.2_+_NC_002737.2_373",
+        "cleavage_prediction": {
+            "sequence": "YSATDCKNHLIGGITSGAIAGGVGAGMATLGVGGVAGAFAGAHVGAIAGGLTCVGGMLFNGK",
+            "start": 19,
+            "stop": 81,
+            "score": -19499.88671875,
+            "name": "GCF_000006785.2_+_NC_002737.2_373",
+            "status": "success"
+        }
+    },
+    {
+        "name": "GCF_000006785.2_+_NC_002737.2_378",
+        "cleavage_prediction": {
+            "sequence": "NAPGDAVIGGLGGLASGLKFCKLPHPVLTGGCVVGFTVGGAYLGYTAN",
+            "start": 18,
+            "stop": 66,
+            "score": -19598.6015625,
+            "name": "GCF_000006785.2_+_NC_002737.2_378",
+            "status": "success"
+        }
+    },
+    {
+        "name": "GCF_000007045.1_+_NC_003098.1_125",
+        "cleavage_prediction": {
+            "sequence": "FGVGVGIALFMAGYTIGKDLRKKFGKSC",
+            "start": 22,
+            "stop": 50,
+            "score": -19689.2734375,
+            "name": "GCF_000007045.1_+_NC_003098.1_125",
+            "status": "success"
+        }
+    },
+    {
+        "name": "GCF_000007045.1_+_NC_003098.1_141",
+        "cleavage_prediction": {
+            "sequence": "NLVNSMGGGGRSGISGWGVPGIYPGWGNQGMSPNRGAFDWTIDLADGLFGRRRR",
+            "start": 23,
+            "stop": 77,
+            "score": -19527.14453125,
+            "name": "GCF_000007045.1_+_NC_003098.1_141",
+            "status": "success"
+        }
+    },
+    {
+        "name": "GCF_000007045.1_+_NC_003098.1_112",
+        "cleavage_prediction": {
+            "sequence": "FSILRWPVATAINIAFNGVLGGGAISLVRNYIRNYGLGRVTSAIAGAAARYVGVRVANRVAGFALSAINGFAAWMSIGDAITTIWANNDVNRRDPNLNALW",
+            "start": 23,
+            "stop": 124,
+            "score": -19208.22265625,
+            "name": "GCF_000007045.1_+_NC_003098.1_112",
+            "status": "success"
+        }
+    },
+    {
+        "name": "GCF_000007045.1_+_NC_003098.1_106",
+        "cleavage_prediction": {
+            "sequence": "VGRNWWNSRGSFATVLDVGLAIYSGGATIYSAYAIKKAISANRGAITRTLRSLIIKHVGSAAGHLVNTALNVALTVTGFSLGGAIAYGADWADGSLDGYIFA",
+            "start": 24,
+            "stop": 126,
+            "score": -19208.0,
+            "name": "GCF_000007045.1_+_NC_003098.1_106",
+            "status": "success"
+        }
+    },
+    {
+        "name": "GCF_000007045.1_+_NC_003098.1_37",
+        "cleavage_prediction": {
+            "sequence": "GCNWGDFAKAGVGGGAVRGLQLGIKTRTWQGAATGAAGGAILGGVAYAATCWW",
+            "start": 23,
+            "stop": 76,
+            "score": -19518.43359375,
+            "name": "GCF_000007045.1_+_NC_003098.1_37",
+            "status": "success"
+        }
+    },
+    {
+        "name": "GCF_000007045.1_+_NC_003098.1_459",
+        "cleavage_prediction": {
+            "sequence": "WWEELLHETILSKFKITKALELPIQL",
+            "start": 25,
+            "stop": 51,
+            "score": -19729.6015625,
+            "name": "GCF_000007045.1_+_NC_003098.1_459",
+            "status": "success"
+        }
+    },
+    {
+        "name": "GCF_000007045.1_+_NC_003098.1_114",
+        "cleavage_prediction": {
+            "sequence": "AYLSKRACQGICVALAMSPGIFIALAGAAVLTKKLINYIKVGGLGGWLIGAAAGVLATAAGKIAYCIGYGALNRGCDISGNPYPWDGFISATVR",
+            "start": 23,
+            "stop": 117,
+            "score": -19254.94140625,
+            "name": "GCF_000007045.1_+_NC_003098.1_114",
+            "status": "success"
+        }
+    },
+    {
+        "name": "GCF_000007045.1_+_NC_003098.1_126",
+        "cleavage_prediction": {
+            "sequence": "LAPLVIFGVAVSWKAIAGGTALIGSGLAAGYFLGGD",
+            "start": 25,
+            "stop": 61,
+            "score": -19618.16796875,
+            "name": "GCF_000007045.1_+_NC_003098.1_126",
+            "status": "success"
+        }
+    },
+    {
+        "name": "GCF_000007045.1_+_NC_003098.1_108",
+        "cleavage_prediction": {
+            "sequence": "AIYIPRWAITGAITGAAYAALAAAGGGGLQLVLASYGLRSALVAGIVKGLGVLGIHIGNAFANTVIRSIASAGIGAGADWIFTNIIDGWDGRRDNQLRIG",
+            "start": 23,
+            "stop": 123,
+            "score": -19239.623046875,
+            "name": "GCF_000007045.1_+_NC_003098.1_108",
+            "status": "success"
+        }
+    },
+    {
+        "name": "GCF_000007045.1_+_NC_003098.1_2002",
+        "cleavage_prediction": {
+            "sequence": "RLSKFFRDFILQRKK",
+            "start": 26,
+            "stop": 41,
+            "score": -19788.220703125,
+            "name": "GCF_000007045.1_+_NC_003098.1_2002",
+            "status": "success"
+        }
+    },
+    {
+        "name": "GCF_000007045.1_+_NC_003098.1_464",
+        "cleavage_prediction": {
+            "sequence": "YANQRSPFASYPSILKNSGPFPVSGYCLRGYHDRGYIGAGFHLCGI",
+            "start": 31,
+            "stop": 77,
+            "score": -19534.09375,
+            "name": "GCF_000007045.1_+_NC_003098.1_464",
+            "status": "success"
+        }
+    },
+    {
+        "name": "GCF_000007045.1_+_NC_003098.1_1174",
+        "cleavage_prediction": {
+            "sequence": "GCTIQLIHHFPFGMGLGHLKKDYIEFKRVGIFDGKAVEVTLREPYSRDLLQVVKSIK",
+            "start": 16,
+            "stop": 73,
+            "score": -19661.36328125,
+            "name": "GCF_000007045.1_+_NC_003098.1_1174",
+            "status": "success"
+        }
+    },
+    {
+        "name": "GCF_000006885.1_+_NC_003028.3_105",
+        "cleavage_prediction": {
+            "sequence": "VGRNWWNSRGSFATVLDVDLAIYSGGATIYSAYAIKKAISANRGAITRTLRSLIIKHVGSAAGHLVNTALNVALTVTGFSLGGAIAYGADWADGSLDGYIFA",
+            "start": 24,
+            "stop": 126,
+            "score": -19209.20703125,
+            "name": "GCF_000006885.1_+_NC_003028.3_105",
+            "status": "success"
+        }
+    },
+    {
+        "name": "GCF_000006885.1_+_NC_003028.3_498",
+        "cleavage_prediction": {
+            "sequence": "RGNLGSAIGGCIGAVLLAAATGPITGGAATLICVGSGIMSSL",
+            "start": 23,
+            "stop": 65,
+            "score": -19585.47265625,
+            "name": "GCF_000006885.1_+_NC_003028.3_498",
+            "status": "success"
+        }
+    },
+    {
+        "name": "GCF_000006885.1_+_NC_003028.3_507",
+        "cleavage_prediction": {
+            "sequence": "DIDWGRKISCAAGVAYGAIDGCATTV",
+            "start": 19,
+            "stop": 45,
+            "score": -19717.5,
+            "name": "GCF_000006885.1_+_NC_003028.3_507",
+            "status": "success"
+        }
+    },
+    {
+        "name": "GCF_000006885.1_+_NC_003028.3_2138",
+        "cleavage_prediction": {
+            "status": "failed"
+        }
+    },
+    {
+        "name": "GCF_000006885.1_+_NC_003028.3_499",
+        "cleavage_prediction": {
+            "sequence": "YSSTDCQNALITGVTTGIITGGTGAGLATLGVAGLAGAFVGAHIGAIGGGLTCLGGMVGDKLGLSW",
+            "start": 23,
+            "stop": 89,
+            "score": -19438.298828125,
+            "name": "GCF_000006885.1_+_NC_003028.3_499",
+            "status": "success"
+        }
+    },
+    {
+        "name": "GCF_000006885.1_+_NC_003028.3_132",
+        "cleavage_prediction": {
+            "sequence": "NLVNSMGGGGRSGISGWGVPGIYPGWGNQGMSPNRGAFDWTIDLADGLFGRRRR",
+            "start": 23,
+            "stop": 77,
+            "score": -19527.14453125,
+            "name": "GCF_000006885.1_+_NC_003028.3_132",
+            "status": "success"
+        }
+    },
+    {
+        "name": "GCF_000006885.1_+_NC_003028.3_114",
+        "cleavage_prediction": {
+            "sequence": "FGVGVGIALFMAGYTIGKDLRKKFGKSC",
+            "start": 22,
+            "stop": 50,
+            "score": -19689.5625,
+            "name": "GCF_000006885.1_+_NC_003028.3_114",
+            "status": "success"
+        }
+    },
+    {
+        "name": "GCF_000006885.1_+_NC_003028.3_115",
+        "cleavage_prediction": {
+            "sequence": "LAPLVIFGVAVSWKAIAGGTALIGSGLAAGYFLGGD",
+            "start": 25,
+            "stop": 61,
+            "score": -19618.16796875,
+            "name": "GCF_000006885.1_+_NC_003028.3_115",
+            "status": "success"
+        }
+    },
+    {
+        "name": "GCF_000006885.1_+_NC_003028.3_505",
+        "cleavage_prediction": {
+            "sequence": "KNNWQTNVLEGGGAAFGGWGLGTAICAASGVGAPFMGACGYIGAKFGVDLWAGVTGATGGF",
+            "start": 23,
+            "stop": 84,
+            "score": -19482.12109375,
+            "name": "GCF_000006885.1_+_NC_003028.3_505",
+            "status": "success"
+        }
+    },
+    {
+        "name": "GCF_000006885.1_+_NC_003028.3_506",
+        "cleavage_prediction": {
+            "sequence": "NSGGAAVVAALGCAAGGVKYGRLLGPWGAAIGGIGGAVVCGYLAYTATS",
+            "start": 18,
+            "stop": 67,
+            "score": -19583.55078125,
+            "name": "GCF_000006885.1_+_NC_003028.3_506",
+            "status": "success"
+        }
+    },
+    {
+        "name": "GCF_000006885.1_+_NC_003028.3_493",
+        "cleavage_prediction": {
+            "sequence": "LWEDLLYNINRYAHYIT",
+            "start": 25,
+            "stop": 42,
+            "score": -19747.21875,
+            "name": "GCF_000006885.1_+_NC_003028.3_493",
+            "status": "success"
+        }
+    },
+    {
+        "name": "GCF_000006885.1_+_NC_003028.3_40",
+        "cleavage_prediction": {
+            "sequence": "GCNWGDFAKAGVGGGAARGLQLGIKTRTWQGAATGAVGGAILGGVAYAATCWW",
+            "start": 23,
+            "stop": 76,
+            "score": -19518.04296875,
+            "name": "GCF_000006885.1_+_NC_003028.3_40",
+            "status": "success"
+        }
+    },
+    {
+        "name": "GCF_000006885.1_+_NC_003028.3_500",
+        "cleavage_prediction": {
+            "sequence": "GCNWGDFAKAGVGGGAARGLQLGIKTGTWQGAATGAAGGAILGGVAYAATCWW",
+            "start": 23,
+            "stop": 76,
+            "score": -19521.8359375,
+            "name": "GCF_000006885.1_+_NC_003028.3_500",
+            "status": "success"
+        }
+    }
+]
