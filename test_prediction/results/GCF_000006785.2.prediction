@@ -1,0 +1,7 @@
+CDs	Rules	Domain_rule	Domain_Evalue	Domain_Bitscore	Context_rule	PFAM_domain	NCBI_domain	Sequence	Length	Description	Potential_Leader_Type
+NC_002737.2_377	Domain	Cluster_277	2.2e-13	61.5	*	['Bacteriocin_IIc']	['bacteriocin_sig']	MEIKKLETFHQMTIEKLAKVEGGKNNWQANVSGVIAAGSAGAAIGFPVCGVAWS	54	Bacteriocin class II with double-glycine leader peptide	Double-glycine
+NC_002737.2_374	Domain	Cluster_1871	4.7e-13	60.2	*	*	['bact_IIb_cerein']	MDNFLELQFEELVNISGGKGNIGSAIGGCLGGMLIAAAGGPITGGAAAFVCVASGIAAYQ	60	lactobin A/cerein 7B family bacteriocin	Double-glycine
+NC_002737.2_373	Domain	Bacteriocin_IIc	8.8e-09	46.6	*	['Bacteriocin_IIc']	*	MIKFAEEIQKEELFHIIGGYSATDCKNHLIGGITSGAIAGGVGAGMATLGVGGVAGAFAGAHVGAIAGGLTCVGGMLFNGK	81	Bacteriocin class II with double-glycine leader peptide	Double-glycine
+NC_002737.2_141	Domain	Cluster_2340	5e-40	146.5	*	*	*	MKKKLSLFMIATAAVAGLSLATLGDHQTVSANDASYSNGFYGHTGPDSWLLYTVW	55	Lactococcin_972	Sec-dependent
+NC_002737.2_378	Domain	Cluster_1379	2.6e-35	131.7	*	*	['bact_IIb_cerein', 'bacteriocin_sig']	MTTMKELTINDMSSISGGNAPGDAVIGGLGGLASGLKFCKLPHPVLTGGCVVGFTVGGAYLGYTAN	66	Bacteriocin class II with double-glycine leader peptide	Double-glycine
+NC_002737.2_140	Domain	Cluster_2340	1.6e-08	45.6	*	*	*	MKKKLSLFMIATAAVVSLSLATPENQTVSAYEVTATRDASVCWTCCPLTCLKYNVEDWYKAVTSFF	66	Lactococcin_972	Sec-dependent

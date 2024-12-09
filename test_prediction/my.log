@@ -1,0 +1,12 @@
+[12/09/2024 19:02:10 PM][INFO][predict] Starting at: 2024-12-09 19:02:10
+[12/09/2024 19:02:10 PM][INFO][predict] Examining the suffix of input fasta file
+[12/09/2024 19:02:10 PM][WARNING][predict] Fasta files with suffiex of '.fna' would be loaded!!!
+[12/09/2024 19:02:10 PM][WARNING][predict] Total fasta files for prediction: 3
+[12/09/2024 19:02:10 PM][INFO][predict] Run prodigal-short for gene calling
+[12/09/2024 19:02:25 PM][INFO][predict] Examining the suffix of input fasta file
+[12/09/2024 19:02:25 PM][WARNING][predict] Fasta files with suffiex of '.faa' would be loaded!!!
+[12/09/2024 19:12:48 PM][INFO][predict] Total predicted precusors of class II bacteriocins: 34
+[12/09/2024 19:12:48 PM][INFO][predict] Run leader prediction
+[12/09/2024 19:23:17 PM][INFO][predict] Purge temporary files
+[12/09/2024 19:23:17 PM][INFO][predict] Ending at: 2024-12-09 19:23:17
+[12/09/2024 19:23:17 PM][INFO][predict] Total running time: 00:21:06
