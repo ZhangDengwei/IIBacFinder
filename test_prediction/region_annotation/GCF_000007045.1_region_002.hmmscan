@@ -1,0 +1,36 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+adh_short            PF00106.28   195 NC_003098.1_584      -            252   3.9e-47  160.4   0.0   1   1   7.5e-51   4.9e-47  160.0   0.0     2   190     3   185     2   189 0.96 short chain dehydrogenase
+adh_short_C2         PF13561.9    234 NC_003098.1_584      -            252   2.7e-28   99.2   0.0   1   1   4.8e-32   3.1e-28   99.0   0.0    20   184    25   187     8   212 0.86 Enoyl-(Acyl carrier protein) reductase
+KR                   PF08659.13   180 NC_003098.1_584      -            252   9.8e-12   45.3   0.0   1   1   1.7e-15   1.1e-11   45.0   0.0     2   154     3   149     2   179 0.85 KR domain
+HTH_1                PF00126.30    60 NC_003098.1_585      -            323   3.8e-18   65.3   0.0   1   1   1.2e-21   1.2e-17   63.7   0.0     1    59    23    81    23    82 0.98 Bacterial regulatory helix-turn-helix protein, lysR family
+LysR_substrate       PF03466.23   209 NC_003098.1_585      -            323   1.9e-11   43.9   0.0   1   1   2.8e-15   2.8e-11   43.4   0.0    37   208   140   318   132   319 0.87 LysR substrate binding domain
+DUF910               PF06014.14    61 NC_003098.1_586      -             90   4.3e-28   97.2   3.8   1   1   2.8e-32   5.5e-28   96.9   3.8     1    60    17    76    17    77 0.99 Bacterial protein of unknown function (DUF910)
+Rhodanese            PF00581.23   107 NC_003098.1_587      -            127     2e-14   54.1   0.0   1   1   1.3e-18   2.5e-14   53.8   0.0     2   106    33   121    32   122 0.90 Rhodanese-like domain
+MpPF26               PF07666.14    75 NC_003098.1_588      -             66   6.5e-10   39.1  13.7   1   1   4.1e-14     8e-10   38.8  13.7     4    75     1    63     1    63 0.87 M penetrans paralogue family 26
+PseudoU_synth_2      PF00849.25   160 NC_003098.1_589      -            242   3.6e-18   66.3   0.0   1   1   9.1e-22   8.9e-18   65.0   0.0     2   159    61   194    60   195 0.91 RNA pseudouridylate synthase
+GTP_EFTU             PF00009.30   195 NC_003098.1_590      -            614   1.8e-54  184.4   0.5   1   1   3.8e-58   1.8e-54  184.4   0.5     2   194     7   200     6   201 0.95 Elongation factor Tu GTP binding domain
+EFG_C                PF00679.27    89 NC_003098.1_590      -            614   1.8e-24   85.7   0.0   1   1   8.5e-28   4.2e-24   84.5   0.0     2    80   401   479   400   484 0.97 Elongation factor G C-terminus
+GTP_EFTU_D2          PF03144.28    74 NC_003098.1_590      -            614   7.3e-14   52.0   1.2   1   1   3.9e-17   1.9e-13   50.7   1.2     1    74   224   294   224   294 0.97 Elongation factor Tu domain 2
+MMR_HSR1             PF01926.26   114 NC_003098.1_590      -            614   2.6e-07   30.8   0.3   1   1   1.4e-10   6.8e-07   29.5   0.3     2   114    11   132    10   132 0.75 50S ribosome-binding GTPase
+DUF3165              PF11364.11    81 NC_003098.1_591      -             85   3.9e-33  113.8  15.4   1   1   2.3e-37   4.5e-33  113.5  15.4     1    80     1    80     1    81 0.98 Protein of unknown function (DUF3165)
+Lactococcin_972      PF09683.13    63 NC_003098.1_592      -            116   1.5e-17   64.0  15.7   1   1   1.1e-21   2.1e-17   63.5  15.7     1    63    47   111    47   111 0.99 Bacteriocin (Lactococcin_972)
+DUF1430              PF07242.14   100 NC_003098.1_593      -            674   3.5e-27   94.7   5.6   1   1   1.8e-31   3.5e-27   94.7   5.6     1   100   573   672   573   672 0.99 Protein of unknown function (DUF1430)
+ABC_tran             PF00005.30   137 NC_003098.1_594      -            214   2.4e-31  109.2   0.0   1   1   3.3e-35   3.2e-31  108.8   0.0     2   137    18   164    17   164 0.90 ABC transporter
+AAA_21               PF13304.9    304 NC_003098.1_594      -            214   2.4e-14   54.0   0.9   1   1   2.1e-14     2e-10   41.0   0.2   228   303   126   198    80   199 0.79 AAA domain, putative AbiEii toxin, Type IV TA system
+Mur_ligase_M         PF08245.15   200 NC_003098.1_595      -            451   2.7e-32  112.5   1.3   1   1   4.1e-36   4.1e-32  111.9   1.3     1   200   117   290   117   290 0.81 Mur ligase middle domain
+Mur_ligase_C         PF02875.24    91 NC_003098.1_595      -            451   2.1e-11   44.0   0.0   1   1   1.1e-13   1.1e-09   38.6   0.0     1    77   310   378   310   392 0.89 Mur ligase family, glutamate ligase domain
+Glyco_transf_28      PF03033.23   139 NC_003098.1_596      -            353   7.6e-43  146.0   0.0   1   1   1.7e-46   1.6e-42  144.9   0.0     1   138     4   143     4   144 0.99 Glycosyltransferase family 28 N-terminal domain
+Glyco_tran_28_C      PF04101.19   167 NC_003098.1_596      -            353   1.3e-35  123.0   0.0   1   1   2.7e-39   2.7e-35  122.0   0.0     1   164   188   341   188   347 0.93 Glycosyltransferase family 28 C-terminal domain
+POTRA_1              PF08478.13    69 NC_003098.1_597      -            397   6.7e-18   64.9   0.1   1   1   7.3e-22   1.4e-17   63.8   0.1     3    69   155   223   153   223 0.96 POTRA domain, FtsQ-type
+#
+# Program:         hmmscan
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SCAN
+# Query file:      /data3/zhangdw/bac_test/test_prediction/region_annotation/GCF_000007045.1_region_002.fa
+# Target file:     /data3/zhangdw/bac_test/IIBacFinder/domains/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /data3/zhangdw/bac_test/test_prediction/region_annotation/GCF_000007045.1_region_002.hmmscan --cut_ga --cpu 20 /data3/zhangdw/bac_test/IIBacFinder/domains/Pfam-A.hmm /data3/zhangdw/bac_test/test_prediction/region_annotation/GCF_000007045.1_region_002.fa 
+# Current dir:     /data3/zhangdw/bac_test
+# Date:            Mon Dec  9 19:10:11 2024
+# [ok]

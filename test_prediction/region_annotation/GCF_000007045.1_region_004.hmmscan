@@ -1,0 +1,40 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+HIT                  PF01230.26    98 NC_003098.1_452      -            137   8.6e-25   87.4   0.5   1   1   1.1e-28   1.1e-24   87.1   0.5     2    97    12   107    11   108 0.98 HIT domain
+DcpS_C               PF11969.11   114 NC_003098.1_452      -            137   1.8e-11   44.6   0.1   1   1   2.5e-15   2.4e-11   44.2   0.1     2   100     4   103     3   113 0.90 Scavenger mRNA decapping enzyme C-term binding
+ABC_tran             PF00005.30   137 NC_003098.1_453      -            244   9.8e-30  104.0   0.0   1   1   1.4e-33   1.4e-29  103.5   0.0     1   136    17   160    17   161 0.92 ABC transporter
+AAA_21               PF13304.9    304 NC_003098.1_453      -            244   1.2e-10   41.8   2.7   1   1   9.3e-12   9.1e-08   32.3   0.0   236   298   131   190   120   191 0.88 AAA domain, putative AbiEii toxin, Type IV TA system
+EcsB                 PF05975.15   383 NC_003098.1_454      -            350   1.7e-70  238.0  32.0   1   2   1.6e-34   3.1e-30  105.4  14.1     1   155     2   156     2   160 0.96 Bacterial ABC transporter protein EcsB
+EcsB                 PF05975.15   383 NC_003098.1_454      -            350   1.7e-70  238.0  32.0   2   2   6.5e-45   1.3e-40  139.6   9.9   209   382   158   331   152   332 0.97 Bacterial ABC transporter protein EcsB
+LytTR                PF04397.18    98 NC_003098.1_456      -            113   1.2e-21   76.9   0.8   1   1   6.9e-26   1.4e-21   76.7   0.8     2    97    11   107    10   108 0.93 LytTr DNA-binding domain
+LytTR                PF04397.18    98 NC_003098.1_457      -            246   5.7e-17   61.9   0.0   1   1   1.9e-20   1.8e-16   60.3   0.0     4    97   151   241   149   242 0.94 LytTr DNA-binding domain
+Response_reg         PF00072.27   112 NC_003098.1_457      -            246   2.5e-11   43.9   0.0   1   1   3.9e-15   3.8e-11   43.3   0.0     1   111     3   122     3   123 0.87 Response regulator receiver domain
+HATPase_c_5          PF14501.9    101 NC_003098.1_458      -            447   1.7e-12   47.2   0.3   1   1   1.5e-16     3e-12   46.5   0.3     2    98   340   440   339   443 0.88 GHKL domain
+ComC                 PF03047.17    31 NC_003098.1_459      -             52   5.1e-15   54.8   4.1   1   1   4.6e-19   9.1e-15   54.0   4.1     1    30     1    30     1    31 0.98 COMC family
+HlyD_3               PF13437.9    106 NC_003098.1_460      -            336   3.8e-16   59.8   1.9   1   1   3.1e-20   6.1e-16   59.2   0.0     1   106   195   308   195   308 0.88 HlyD family secretion protein
+ABC_membrane         PF00664.26   274 NC_003098.1_462      -            518   9.6e-54  183.0  18.3   1   1   1.9e-57   1.2e-53  182.7  18.3    37   274     4   238     1   238 0.99 ABC transporter transmembrane region
+ABC_tran             PF00005.30   137 NC_003098.1_462      -            518   7.7e-34  117.3   0.2   1   1   2.5e-37   1.6e-33  116.2   0.2     1   137   300   449   300   449 0.88 ABC transporter
+ABC_ATPase           PF09818.12   283 NC_003098.1_462      -            518     9e-06   25.0   0.8   1   1   2.2e-08   0.00014   21.1   0.0   133   218   396   481   378   507 0.86 ATPase of the ABC class
+Peptidase_C39        PF03412.18   133 NC_003098.1_463      -            196   2.1e-40  137.7   0.1   1   1   1.6e-43   1.6e-39  134.9   0.0     3   132     7   142     5   143 0.97 Peptidase C39 family
+Peptidase_C70        PF12385.11   143 NC_003098.1_463      -            196    0.0002   21.4   0.0   1   1   4.1e-08   0.00041   20.4   0.0    11   133    10   121     3   130 0.77 Papain-like cysteine protease AvrRpt2
+Rce1-like            PF02517.19    92 NC_003098.1_465      -            230     7e-13   48.9   4.6   1   1   3.5e-17     7e-13   48.9   4.6     7    91   126   213   108   214 0.89 Type II CAAX prenyl endopeptidase Rce1-like
+Rce1-like            PF02517.19    92 NC_003098.1_467      -            204   2.9e-18   66.1   1.8   1   1   1.5e-22   2.9e-18   66.1   1.8     5    91   111   196   107   197 0.93 Type II CAAX prenyl endopeptidase Rce1-like
+APH                  PF01636.26   239 NC_003098.1_468      -            265   1.6e-17   64.3   1.1   1   1   2.2e-21   2.1e-17   63.9   1.1    47   238    44   224    39   225 0.82 Phosphotransferase enzyme family
+Methyltransf_4       PF02390.20   173 NC_003098.1_469      -            212   4.9e-47  159.7   0.0   1   1   1.3e-50   6.1e-47  159.4   0.0     1   172    38   206    38   207 0.90 Putative methyltransferase
+Methyltransf_25      PF13649.9     97 NC_003098.1_469      -            212   1.5e-06   28.9   0.0   1   1   6.8e-10   3.3e-06   27.8   0.0     3    73    44   117    43   147 0.83 Methyltransferase domain
+RimP_N               PF02576.20    73 NC_003098.1_470      -            160   7.1e-20   71.3   0.0   1   1   1.4e-23   1.3e-19   70.4   0.0     2    73    15    87    14    87 0.96 RimP N-terminal domain
+DUF150_C             PF17384.5     70 NC_003098.1_470      -            160     5e-16   58.8   0.1   1   1   8.2e-20   8.1e-16   58.1   0.1     9    69    98   158    90   159 0.94 RimP C-terminal SH3 domain
+NusA_N               PF08529.14   120 NC_003098.1_471      -            375   8.6e-30  103.7   3.8   1   1   1.7e-33   8.6e-30  103.7   3.8     2   119     1   119     1   120 0.95 NusA N-terminal domain
+KH_5                 PF13184.9     69 NC_003098.1_471      -            375   3.1e-19   69.0   2.3   1   1   1.1e-20   5.3e-17   61.9   1.2     1    67   225   305   225   307 0.98 NusA-like KH domain
+YlxR                 PF04296.16    75 NC_003098.1_472      -             98   1.8e-22   79.1   0.0   1   1   1.2e-26   2.3e-22   78.8   0.0     1    73     9    81     9    83 0.97 Protein of unknown function (DUF448)
+#
+# Program:         hmmscan
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SCAN
+# Query file:      /data3/zhangdw/bac_test/test_prediction/region_annotation/GCF_000007045.1_region_004.fa
+# Target file:     /data3/zhangdw/bac_test/IIBacFinder/domains/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /data3/zhangdw/bac_test/test_prediction/region_annotation/GCF_000007045.1_region_004.hmmscan --cut_ga --cpu 20 /data3/zhangdw/bac_test/IIBacFinder/domains/Pfam-A.hmm /data3/zhangdw/bac_test/test_prediction/region_annotation/GCF_000007045.1_region_004.fa 
+# Current dir:     /data3/zhangdw/bac_test
+# Date:            Mon Dec  9 19:11:27 2024
+# [ok]

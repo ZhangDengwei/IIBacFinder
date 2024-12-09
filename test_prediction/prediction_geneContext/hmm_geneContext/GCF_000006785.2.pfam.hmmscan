@@ -1,0 +1,26 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+rve_3                PF13683.9  NC_002737.2_1125     -            4.9e-16   58.4   0.1   5.7e-16   58.1   0.1   1.1   1   0   0   1   1   1   1 Integrase core domain
+rve_2                PF13333.9  NC_002737.2_1125     -            5.1e-15   55.5   1.1   5.9e-15   55.3   1.1   1.1   1   0   0   1   1   1   1 Integrase core domain
+HTH_3                PF01381.25 NC_002737.2_1128     -            4.4e-15   55.6   0.1   5.1e-15   55.4   0.1   1.1   1   0   0   1   1   1   1 Helix-turn-helix
+HTH_19               PF12844.10 NC_002737.2_1128     -            4.7e-09   36.3   0.1   5.5e-09   36.1   0.1   1.1   1   0   0   1   1   1   1 Helix-turn-helix domain
+HTH_31               PF13560.9  NC_002737.2_1128     -            2.9e-08   34.1   0.0   3.5e-08   33.8   0.0   1.1   1   0   0   1   1   1   1 Helix-turn-helix domain
+HTH_26               PF13443.9  NC_002737.2_1128     -            2.1e-06   28.2   0.0   2.6e-06   27.9   0.0   1.1   1   0   0   1   1   1   1 Cro/C1-type HTH DNA-binding domain
+EntA_Immun           PF08951.13 NC_002737.2_1362     -            4.8e-11   42.9   3.3     6e-11   42.6   3.3   1.2   1   0   0   1   1   1   1 Enterocin A Immunity
+HTH_21               PF13276.9  NC_002737.2_1124     -            7.5e-17   61.4   2.3   1.2e-16   60.7   2.3   1.3   1   0   0   1   1   1   1 HTH-like domain
+HTH_Tnp_1            PF01527.23 NC_002737.2_1123     -            6.9e-17   61.6   0.1     8e-17   61.4   0.1   1.1   1   0   0   1   1   1   1 Transposase
+HTH_28               PF13518.9  NC_002737.2_1123     -            4.9e-06   26.7   0.0   7.1e-06   26.2   0.0   1.3   1   0   0   1   1   1   1 Helix-turn-helix domain
+Glutaredoxin         PF00462.27 NC_002737.2_1119     -            1.8e-15   57.0   0.1     2e-15   56.9   0.1   1.1   1   0   0   1   1   1   1 Glutaredoxin
+PTS-HPr              PF00381.22 NC_002737.2_1118     -            7.8e-30  103.1   0.6   8.4e-30  103.0   0.6   1.0   1   0   0   1   1   1   1 PTS HPr component phosphorylation site
+PepSY                PF03413.22 NC_002737.2_1370     -            1.5e-11   44.7   1.7   2.3e-11   44.1   1.7   1.3   1   0   0   1   1   1   1 Peptidase propeptide and YPEB domain
+#
+# Program:         hmmscan
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SCAN
+# Query file:      /data3/zhangdw/bac_test/test_prediction/prediction_geneContext/hmm_geneContext_parase/GCF_000006785.2.fa
+# Target file:     /data3/zhangdw/bac_test/IIBacFinder/domains/Pfam-A.hmm
+# Option settings: hmmscan --tblout /data3/zhangdw/bac_test/test_prediction/prediction_geneContext/hmm_geneContext/GCF_000006785.2.pfam.hmmscan --cut_ga /data3/zhangdw/bac_test/IIBacFinder/domains/Pfam-A.hmm /data3/zhangdw/bac_test/test_prediction/prediction_geneContext/hmm_geneContext_parase/GCF_000006785.2.fa 
+# Current dir:     /data3/zhangdw/bac_test
+# Date:            Mon Dec  9 19:05:51 2024
+# [ok]

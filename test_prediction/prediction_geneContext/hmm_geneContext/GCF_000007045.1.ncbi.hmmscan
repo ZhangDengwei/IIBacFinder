@@ -1,0 +1,28 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+PRK12449.1           NF009104.0 NC_003098.1_35       -            7.1e-22   76.9   8.0   7.6e-22   76.8   8.0   1.0   1   0   0   1   1   1   1 NCBI Protein Cluster (PRK): acyl carrier protein (Provisional)
+PRK00982.1-4         NF002150.0 NC_003098.1_35       -            3.5e-20   71.8   9.6   3.8e-20   71.6   9.6   1.0   1   0   0   1   1   1   1 NCBI Protein Cluster (PRK): acyl carrier protein
+PRK13344.1           NF009885.0  NC_003098.1_173      -            1.6e-83  277.0   1.0   1.7e-83  276.8   1.0   1.0   1   0   0   1   1   1   1 NCBI Protein Cluster (PRK): transcriptional regulator Spx
+PRK01655.1           NF002459.0  NC_003098.1_173      -            5.3e-48  162.1   0.2   5.8e-48  162.0   0.2   1.0   1   0   0   1   1   1   1 NCBI Protein Cluster (PRK): transcriptional regulator Spx
+arsC_related         TIGR01617.1 NC_003098.1_173      -            1.1e-33  115.7   0.2   1.2e-33  115.5   0.2   1.0   1   0   0   1   1   1   1 JCVI: Spx/MgsR family RNA polymerase-binding regulatory protein
+rpmH_bact            TIGR01030.1 NC_003098.1_1765     -            4.7e-21   74.5  13.4   5.1e-21   74.4  13.4   1.0   1   0   0   1   1   1   1 JCVI: 50S ribosomal protein L34
+lactococcin_972      TIGR01653.1 NC_003098.1_592      -            1.1e-13   51.0   3.6   1.3e-13   50.7   3.6   1.1   1   0   0   1   1   1   1 JCVI: lactococcin 972 family bacteriocin
+BlpC_Streptocco      NF033215.1  NC_003098.1_459      -            5.9e-32  109.0   3.7   6.4e-32  108.8   3.7   1.0   1   0   0   1   1   1   1 NCBIFAM: quorum-sensing system pheromone BlpC
+bacteriocin_sig      TIGR01847.1 NC_003098.1_459      -            0.00015   21.7   0.3   0.00052   20.1   0.3   2.0   1   0   0   1   1   1   1 JCVI: bacteriocin
+PRK07283.1           NF005585.0 NC_003098.1_473      -            2.4e-56  187.8   1.8   2.6e-56  187.7   1.8   1.0   1   0   0   1   1   1   1 NCBI Protein Cluster (PRK): YlxQ-related RNA-binding protein
+lactococcin_972      TIGR01653.1 NC_003098.1_95       -              3e-18   65.6   0.4   3.3e-18   65.5   0.4   1.0   1   0   0   1   1   1   1 JCVI: lactococcin 972 family bacteriocin
+bacteriocin_sig      TIGR01847.1 NC_003098.1_37       -              0.014   15.8   2.2      0.04   14.3   0.0   2.5   3   0   0   3   3   1   1 JCVI: bacteriocin
+PRK05473.1           NF003997.2 NC_003098.1_175      -            1.7e-39  133.8   0.7   1.9e-39  133.6   0.7   1.0   1   0   0   1   1   1   1 NCBI Protein Cluster (PRK): IreB family regulatory phosphoprotein
+rbfA                 TIGR00082.1 NC_003098.1_475      -            3.9e-30  104.5   0.4   4.2e-30  104.4   0.4   1.0   1   0   0   1   1   1   1 JCVI: 30S ribosome-binding factor RbfA
+L12                  TIGR00855.1 NC_003098.1_1188     -            4.9e-44  149.5  15.3   5.4e-44  149.3  15.3   1.0   1   0   0   1   1   1   1 JCVI: 50S ribosomal protein L7/L12
+#
+# Program:         hmmscan
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SCAN
+# Query file:      /data3/zhangdw/bac_test/test_prediction/prediction_geneContext/hmm_geneContext_parase/GCF_000007045.1.fa
+# Target file:     /data3/zhangdw/bac_test/IIBacFinder/domains/hmm_PGAP.LIB
+# Option settings: hmmscan --tblout /data3/zhangdw/bac_test/test_prediction/prediction_geneContext/hmm_geneContext/GCF_000007045.1.ncbi.hmmscan --cut_ga /data3/zhangdw/bac_test/IIBacFinder/domains/hmm_PGAP.LIB /data3/zhangdw/bac_test/test_prediction/prediction_geneContext/hmm_geneContext_parase/GCF_000007045.1.fa 
+# Current dir:     /data3/zhangdw/bac_test
+# Date:            Mon Dec  9 19:08:04 2024
+# [ok]

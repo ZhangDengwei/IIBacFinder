@@ -1,0 +1,32 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+tRNA-synt_1b         PF00579.28   293 NC_003098.1_1994     -            342     3e-56  191.0   0.0   1   1     2e-60   3.9e-56  190.7   0.0     6   290     4   290     1   293 0.95 tRNA synthetases class I (W and Y)
+ABC_tran             PF00005.30   137 NC_003098.1_1995     -            541   7.6e-39  133.5   0.0   1   2   5.2e-28   3.4e-24   86.0   0.0     2   137    18   184    17   184 0.73 ABC transporter
+ABC_tran             PF00005.30   137 NC_003098.1_1995     -            541   7.6e-39  133.5   0.0   2   2     5e-15   3.3e-11   44.0   0.0     1   137   335   467   335   467 0.86 ABC transporter
+ABC_tran_Xtn         PF12848.10    85 NC_003098.1_1995     -            541   1.5e-20   73.1   1.8   1   1     3e-24   1.9e-20   72.8   0.6     2    81   224   305   223   309 0.89 ABC transporter
+YfhO                 PF09586.13   840 NC_003098.1_1996     -            851  3.7e-249  829.5  66.1   1   1  2.2e-253  4.3e-249  829.3  66.1     1   840    14   831    14   831 0.98 Bacterial membrane protein YfhO
+ABC2_membrane_3      PF12698.10   346 NC_003098.1_1998     -            256   3.2e-11   43.1   9.1   1   1   4.7e-15   4.6e-11   42.6   9.1    13   166    10   174     2   184 0.78 ABC-2 family transporter protein
+DUF3533              PF12051.11   376 NC_003098.1_1998     -            256   6.2e-08   32.1   3.3   1   1   8.1e-12     8e-08   31.8   3.3    15   201    14   178     9   207 0.71 Protein of unknown function (DUF3533)
+TetR_C_8             PF14278.9    103 NC_003098.1_1999     -            181   3.3e-13   49.8   0.5   1   1   3.3e-17   3.3e-13   49.8   0.5     5   101    81   176    77   178 0.95 Transcriptional regulator C-terminal region
+TetR_N               PF00440.26    47 NC_003098.1_1999     -            181   2.3e-07   30.6   0.0   1   1   4.3e-11   4.2e-07   29.8   0.0     6    45    19    58    14    60 0.93 Bacterial regulatory proteins, tetR family
+LytTR                PF04397.18    98 NC_003098.1_2000     -            251   1.6e-22   79.7   1.0   1   1   2.9e-26   2.8e-22   78.9   0.4     4    97   151   244   149   245 0.96 LytTr DNA-binding domain
+Response_reg         PF00072.27   112 NC_003098.1_2000     -            251   6.1e-09   36.2   0.2   1   1   9.5e-13   9.3e-09   35.6   0.2     1   111     3   121     3   122 0.82 Response regulator receiver domain
+HATPase_c_5          PF14501.9    101 NC_003098.1_2001     -            442   6.4e-14   51.8   0.5   1   1   1.4e-17   1.3e-13   50.8   0.5     2    98   334   434   333   437 0.88 GHKL domain
+ComC                 PF03047.17    31 NC_003098.1_2002     -             42   4.3e-15   55.0   0.6   1   1   2.5e-19     5e-15   54.8   0.6     1    31     1    31     1    31 0.99 COMC family
+SPOUT_MTase          PF02590.20   154 NC_003098.1_2003     -            160   5.1e-56  189.1   0.2   1   1   2.9e-60   5.7e-56  188.9   0.2     1   154     1   158     1   158 0.97 Predicted SPOUT methyltransferase
+Trypsin_2            PF13365.9    150 NC_003098.1_2004     -            394   5.5e-30  105.4   1.7   1   1   2.5e-33   1.2e-29  104.3   1.7     1   150   103   248   103   248 0.94 Trypsin-like peptidase domain
+PDZ_2                PF13180.9     82 NC_003098.1_2004     -            394   8.9e-26   90.2   0.3   1   1   5.6e-29   2.7e-25   88.7   0.3     1    82   289   384   289   384 0.99 PDZ domain
+Trypsin              PF00089.29   221 NC_003098.1_2004     -            394   6.5e-16   58.9   2.0   1   1   1.3e-19   6.5e-16   58.9   2.0    34   218   114   274    96   277 0.78 Trypsin
+ParBc                PF02195.21    90 NC_003098.1_2005     -            248   1.6e-28   98.8   0.6   1   1   3.4e-32   3.3e-28   97.8   0.6     2    89     1    89     1    90 0.98 ParB/Sulfiredoxin domain
+HTH_ParB             PF17762.4     52 NC_003098.1_2005     -            248     4e-13   49.0   0.3   1   1   4.1e-17     4e-13   49.0   0.3     1    50   139   187   139   189 0.94 HTH domain found in ParB protein
+#
+# Program:         hmmscan
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SCAN
+# Query file:      /data3/zhangdw/bac_test/test_prediction/region_annotation/GCF_000007045.1_region_005.fa
+# Target file:     /data3/zhangdw/bac_test/IIBacFinder/domains/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /data3/zhangdw/bac_test/test_prediction/region_annotation/GCF_000007045.1_region_005.hmmscan --cut_ga --cpu 20 /data3/zhangdw/bac_test/IIBacFinder/domains/Pfam-A.hmm /data3/zhangdw/bac_test/test_prediction/region_annotation/GCF_000007045.1_region_005.fa 
+# Current dir:     /data3/zhangdw/bac_test
+# Date:            Mon Dec  9 19:11:58 2024
+# [ok]

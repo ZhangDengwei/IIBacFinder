@@ -1,0 +1,26 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ABC_tran             PF00005.30   137 NC_003028.3_124      -            539   1.4e-28  100.2   0.0   1   1   2.3e-32   2.3e-28   99.5   0.0     1   136   343   489   343   490 0.91 ABC transporter
+ABC_membrane         PF00664.26   274 NC_003028.3_124      -            539   1.1e-15   58.2  24.9   1   1   1.5e-19   1.5e-15   57.8  24.9     3   274    14   282    12   282 0.95 ABC transporter transmembrane region
+PIG-L                PF02585.20   130 NC_003028.3_127      -            250   4.3e-17   63.1   0.0   1   1   4.3e-21   8.5e-17   62.1   0.0     2   128     9   158     8   160 0.92 GlcNAc-PI de-N-acetylase
+UDPG_MGDP_dh_N       PF03721.17   187 NC_003028.3_128      -            217   2.5e-26   92.5   0.0   1   1   1.7e-30   3.4e-26   92.1   0.0     1   181     1   168     1   173 0.91 UDP-glucose/GDP-mannose dehydrogenase family, NAD binding domain
+HTH_3                PF01381.25    55 NC_003028.3_130      -            288   1.2e-05   25.3   0.0   1   1   1.5e-09   2.9e-05   24.1   0.0     2    55    12    64    12    64 0.96 Helix-turn-helix
+Rce1-like            PF02517.19    92 NC_003028.3_133      -            226     1e-16   61.2   6.4   1   1   5.1e-21     1e-16   61.2   6.4     5    91   123   213    83   214 0.91 Type II CAAX prenyl endopeptidase Rce1-like
+Rce1-like            PF02517.19    92 NC_003028.3_134      -            222   5.2e-14   52.5  13.4   1   1   5.1e-17     1e-12   48.4  13.4     4    91   122   213     8   214 0.95 Type II CAAX prenyl endopeptidase Rce1-like
+MFS_1                PF07690.19   353 NC_003028.3_135      -            409   1.5e-11   44.0  31.1   1   1   1.5e-15   1.5e-11   44.0  31.1     3   344    15   362    13   371 0.70 Major Facilitator Superfamily
+MFS_3                PF05977.16   524 NC_003028.3_135      -            409   8.9e-07   27.8  10.1   1   1     9e-11   8.9e-07   27.8  10.1     7   192     5   193     3   249 0.81 Transmembrane secretion effector
+AzlC                 PF03591.17   136 NC_003028.3_137      -            219   3.9e-30  105.2  12.6   1   1     2e-34   3.9e-30  105.2  12.6     1   136     2   141     2   141 0.95 AzlC protein
+AzlD                 PF05437.15    99 NC_003028.3_138      -             70   2.5e-13   50.1   3.8   1   1   1.4e-17   2.8e-13   50.0   3.8     2    56     7    61     6    68 0.92 Branched-chain amino acid transport protein (AzlD)
+SBP_bac_3            PF00497.23   225 NC_003028.3_139      -            277   1.3e-43  149.1   2.2   1   1     8e-48   1.6e-43  148.9   2.2     1   224    40   265    40   266 0.92 Bacterial extracellular solute-binding proteins, family 3
+Lipoprotein_9        PF03180.17   237 NC_003028.3_140      -            285   1.1e-91  306.3   7.7   1   1   6.5e-96   1.3e-91  306.1   7.7     1   237    36   284    36   284 0.98 NlpA lipoprotein
+#
+# Program:         hmmscan
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SCAN
+# Query file:      /data3/zhangdw/bac_test/test_prediction/region_annotation/GCF_000006885.1_region_004.fa
+# Target file:     /data3/zhangdw/bac_test/IIBacFinder/domains/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /data3/zhangdw/bac_test/test_prediction/region_annotation/GCF_000006885.1_region_004.hmmscan --cut_ga --cpu 20 /data3/zhangdw/bac_test/IIBacFinder/domains/Pfam-A.hmm /data3/zhangdw/bac_test/test_prediction/region_annotation/GCF_000006885.1_region_004.fa 
+# Current dir:     /data3/zhangdw/bac_test
+# Date:            Mon Dec  9 19:11:21 2024
+# [ok]

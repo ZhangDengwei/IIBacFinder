@@ -1,0 +1,45 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DNA_pol_A            PF00476.23   377 NC_003098.1_29       -            890  1.2e-149  498.5   0.1   1   1  2.5e-153  1.6e-149  498.1   0.1     2   377   509   887   508   887 0.98 DNA polymerase family A
+5_3_exonuc_N         PF02739.19   159 NC_003098.1_29       -            890   4.6e-49  166.4   0.0   1   1   1.2e-52   8.1e-49  165.7   0.0     1   158    17   186    17   187 0.88 5'-3' exonuclease, N-terminal resolvase-like domain
+5_3_exonuc           PF01367.23    97 NC_003098.1_29       -            890   6.4e-33  113.4   0.4   1   1   5.4e-36   3.5e-32  111.0   0.2     2    95   189   282   188   284 0.97 5'-3' exonuclease, C-terminal SAM fold
+CoA_binding_2        PF13380.9    116 NC_003098.1_30       -            146   4.4e-33  114.4   0.0   1   1   5.4e-37   5.3e-33  114.1   0.0     1   115    21   138    21   139 0.97 CoA binding domain
+CoA_binding          PF02629.22    96 NC_003098.1_30       -            146     9e-05   23.2   0.0   1   1   1.3e-08   0.00013   22.7   0.0     5    91    22   106    19   108 0.87 CoA binding domain
+Cons_hypoth698       PF03601.17   305 NC_003098.1_31       -            337   2.7e-98  328.8  25.4   1   1  1.6e-102   3.2e-98  328.5  25.4     2   304    10   314     9   315 0.98 Conserved hypothetical protein 698
+Aminotran_1_2        PF00155.24   363 NC_003098.1_32       -            390   2.1e-61  208.2   0.0   1   1   3.7e-65   2.4e-61  208.1   0.0     3   363    32   382    30   382 0.94 Aminotransferase class I and II
+DegT_DnrJ_EryC1      PF01041.20   360 NC_003098.1_32       -            390   1.2e-06   28.1   1.2   1   1   1.8e-10   1.2e-06   28.1   0.0    35   145    87   205    64   218 0.84 DegT/DnrJ/EryC1/StrS aminotransferase family
+Aminotran_5          PF00266.22   371 NC_003098.1_32       -            390   1.2e-06   27.9   0.0   1   1   3.3e-10   2.1e-06   27.0   0.0    58   177    89   207    50   212 0.82 Aminotransferase class-V
+RecO_C               PF02565.18   157 NC_003098.1_33       -            257   2.6e-36  124.9   0.5   1   1   3.3e-40   3.3e-36  124.5   0.5     2   156    84   238    83   239 0.99 Recombination protein O C terminal
+RecO_N               PF11967.11    80 NC_003098.1_33       -            257   4.8e-16   58.6   0.0   1   1   8.1e-20     8e-16   57.9   0.0     3    73     4    72     1    79 0.93 Recombination protein O N terminal
+FA_synthesis         PF02504.18   324 NC_003098.1_34       -            331  5.3e-105  351.2   6.3   1   1  3.2e-109  6.2e-105  351.0   6.3     2   322     3   320     2   322 0.98 Fatty acid synthesis protein
+PP-binding           PF00550.28    67 NC_003098.1_35       -             78   6.9e-09   36.0   2.6   1   1   4.1e-13     8e-09   35.8   2.6     2    65     9    72     8    74 0.80 Phosphopantetheine attachment site
+DDE_Tnp_4            PF13359.9    158 NC_003098.1_36       -             98     2e-08   34.2   0.0   1   1   2.2e-12   2.2e-08   34.1   0.0    76   146     8    80     2    92 0.81 DDE superfamily endonuclease
+DDE_Tnp_1            PF01609.24   214 NC_003098.1_36       -             98   1.3e-06   28.4   0.0   1   1   1.4e-10   1.4e-06   28.3   0.0    79   202     9    80     1    92 0.85 Transposase DDE domain
+Bacteriocin_IIc      PF10439.12    62 NC_003098.1_37       -             77   2.3e-15   56.5   9.3   1   1   2.3e-19   2.3e-15   56.5   9.3     1    62     6    65     6    65 0.98 Bacteriocin class II with double-glycine leader peptide
+ComC                 PF03047.17    31 NC_003098.1_37       -             77    0.0001   22.1   0.2   1   1   2.2e-08   0.00022   21.0   0.2     1    25     1    24     1    27 0.94 COMC family
+DDE_Tnp_ISL3         PF01610.20   240 NC_003098.1_39       -            254     2e-49  168.6   5.6   1   1   1.3e-53   2.5e-49  168.3   5.6    24   240     9   235     2   235 0.95 Transposase
+zf-ISL3              PF14690.9     47 NC_003098.1_40       -            173     2e-12   47.6   1.5   1   1   3.9e-16   3.8e-12   46.8   1.5     2    47    40    85    39    85 0.95 zinc-finger of transposase IS204/IS1001/IS1096/IS1165
+HTH_Tnp_ISL3         PF13542.9     52 NC_003098.1_40       -            173   8.6e-10   38.0   0.0   1   1   1.4e-13   1.4e-09   37.4   0.0     2    52    92   142    91   142 0.96 Helix-turn-helix domain of transposase family ISL3
+ABC_membrane         PF00664.26   274 NC_003098.1_41       -            718   1.3e-62  212.1  20.3   1   1   2.7e-66   1.3e-62  212.1  20.3     3   274   170   438   168   438 0.99 ABC transporter transmembrane region
+Peptidase_C39        PF03412.18   133 NC_003098.1_41       -            718   1.7e-41  141.3   0.0   1   1   8.3e-45   4.1e-41  140.0   0.0     3   132     7   142     5   143 0.97 Peptidase C39 family
+ABC_tran             PF00005.30   137 NC_003098.1_41       -            718   5.6e-32  111.3   0.0   1   1   2.3e-35   1.1e-31  110.3   0.0     1   137   500   650   500   650 0.87 ABC transporter
+Peptidase_C70        PF12385.11   143 NC_003098.1_41       -            718   3.4e-05   23.9   0.0   1   1   1.9e-08   9.4e-05   22.4   0.0     9   132     8   120     3   129 0.77 Papain-like cysteine protease AvrRpt2
+SAICAR_synt          PF01259.21   252 NC_003098.1_43       -            236     2e-66  224.3   0.7   1   1   1.2e-70   2.3e-66  224.1   0.7     2   247     6   226     5   231 0.95 SAICAR synthetase
+GATase_5             PF13507.9    260 NC_003098.1_44       -           1242   5.6e-77  258.5   0.1   1   1   1.7e-80   1.1e-76  257.5   0.1     1   260   976  1238   976  1238 0.95 CobB/CobQ-like glutamine amidotransferase domain
+AIRS_C               PF02769.25   156 NC_003098.1_44       -           1242   5.9e-24   85.1   2.7   1   1   1.7e-26   1.1e-22   80.9   1.3     1   153   439   589   439   592 0.93 AIR synthase related protein, C-terminal domain
+FGAR-AT_linker       PF18072.4     50 NC_003098.1_44       -           1242   4.5e-12   46.4   0.0   1   1   2.3e-15   1.5e-11   44.8   0.0     3    49   182   228   180   228 0.97 Formylglycinamide ribonucleotide amidotransferase linker domain
+GATase_6             PF13522.9    133 NC_003098.1_45       -            481   6.6e-18   65.2   0.0   1   1   3.2e-21   1.6e-17   64.0   0.0     9   133    75   206    64   206 0.88 Glutamine amidotransferase domain
+GATase_7             PF13537.9    123 NC_003098.1_45       -            481   8.5e-18   64.6   0.0   1   1   3.5e-21   1.7e-17   63.6   0.0     9   121    92   210    82   212 0.93 Glutamine amidotransferase domain
+Pribosyltran         PF00156.30   158 NC_003098.1_45       -            481   2.4e-10   40.1   0.1   1   1   8.7e-14   4.3e-10   39.3   0.1    15   121   271   384   263   386 0.87 Phosphoribosyl transferase domain
+GATase_4             PF13230.9    271 NC_003098.1_45       -            481   9.8e-08   31.4   0.0   1   1   5.3e-11   2.6e-07   30.0   0.0    72   124    77   128    61   167 0.72 Glutamine amidotransferases class-II
+#
+# Program:         hmmscan
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SCAN
+# Query file:      /data3/zhangdw/bac_test/test_prediction/region_annotation/GCF_000007045.1_region_003.fa
+# Target file:     /data3/zhangdw/bac_test/IIBacFinder/domains/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /data3/zhangdw/bac_test/test_prediction/region_annotation/GCF_000007045.1_region_003.hmmscan --cut_ga --cpu 20 /data3/zhangdw/bac_test/IIBacFinder/domains/Pfam-A.hmm /data3/zhangdw/bac_test/test_prediction/region_annotation/GCF_000007045.1_region_003.fa 
+# Current dir:     /data3/zhangdw/bac_test
+# Date:            Mon Dec  9 19:10:43 2024
+# [ok]

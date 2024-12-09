@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+streptolysinS        TIGR03602.1 NC_002737.2_580      -            1.4e-28   98.5  18.2   1.6e-28   98.4  18.2   1.0   1   0   0   1   1   1   1 JCVI: streptolysin S family TOMM toxin
+ftsL_broad           TIGR02209.1 NC_002737.2_1355     -            2.6e-15   55.8   3.6   4.2e-15   55.2   3.6   1.3   1   0   0   1   1   1   1 JCVI: cell division protein FtsL
+GlrX_NrdH            TIGR02194.1 NC_002737.2_1119     -            2.5e-36  123.4   0.2   2.8e-36  123.3   0.2   1.0   1   0   0   1   1   1   1 JCVI: glutaredoxin-like protein NrdH
+PRK13780.1           NF010352.0  NC_002737.2_1118     -            3.7e-50  167.5   1.4     4e-50  167.4   1.4   1.0   1   0   0   1   1   1   1 NCBI Protein Cluster (PRK): phosphocarrier protein HPr
+PTS_HPr_family       TIGR01003.1 NC_002737.2_1118     -            7.9e-32  108.8   1.2   8.8e-32  108.7   1.2   1.0   1   0   0   1   1   1   1 JCVI: HPr family phosphocarrier protein
+#
+# Program:         hmmscan
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SCAN
+# Query file:      /data3/zhangdw/bac_test/test_prediction/prediction_geneContext/hmm_geneContext_parase/GCF_000006785.2.fa
+# Target file:     /data3/zhangdw/bac_test/IIBacFinder/domains/hmm_PGAP.LIB
+# Option settings: hmmscan --tblout /data3/zhangdw/bac_test/test_prediction/prediction_geneContext/hmm_geneContext/GCF_000006785.2.ncbi.hmmscan --cut_ga /data3/zhangdw/bac_test/IIBacFinder/domains/hmm_PGAP.LIB /data3/zhangdw/bac_test/test_prediction/prediction_geneContext/hmm_geneContext_parase/GCF_000006785.2.fa 
+# Current dir:     /data3/zhangdw/bac_test
+# Date:            Mon Dec  9 19:05:57 2024
+# [ok]

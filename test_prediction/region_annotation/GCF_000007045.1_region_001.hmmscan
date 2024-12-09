@@ -1,0 +1,108 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MFS_1                PF07690.19   353 NC_003098.1_87       -            389   2.2e-26   92.8  38.3   1   1   1.5e-30   2.9e-26   92.4  38.3    10   353    21   347     8   347 0.86 Major Facilitator Superfamily
+Glycos_transf_2      PF00535.29   170 NC_003098.1_88       -            355   3.6e-24   85.6   0.0   1   1   1.2e-27   5.7e-24   84.9   0.0     1   169    11   182    11   183 0.86 Glycosyl transferase family 2
+Glyco_trans_2_3      PF13632.9    194 NC_003098.1_88       -            355   3.9e-11   43.3   0.2   1   1   1.2e-14   5.8e-11   42.8   0.2     2   193    96   286    95   321 0.77 Glycosyl transferase family group 2
+Glyco_tranf_2_3      PF13641.9    230 NC_003098.1_88       -            355   2.4e-09   37.5   0.0   1   1   1.7e-12   8.4e-09   35.7   0.0     4   224    10   231     9   233 0.77 Glycosyltransferase like family 2
+Polysacc_synt_2      PF02719.18   294 NC_003098.1_89       -            617  1.4e-118  395.5   0.4   1   1  7.8e-122  1.9e-118  395.0   0.4     1   291   295   575   295   578 0.97 Polysaccharide biosynthesis protein
+Epimerase            PF01370.24   241 NC_003098.1_89       -            617   4.9e-24   85.2   0.0   1   1   2.1e-26   5.1e-23   81.9   0.0     1   228   295   506   295   516 0.90 NAD dependent epimerase/dehydratase family
+CoA_binding_3        PF13727.9    175 NC_003098.1_89       -            617   2.2e-16   60.4   0.0   1   1   4.3e-19   1.1e-15   58.2   0.0    16   170    86   244    75   249 0.83 CoA-binding domain
+RmlD_sub_bind        PF04321.20   287 NC_003098.1_89       -            617   4.4e-16   58.9   0.0   1   1   3.4e-18   8.4e-15   54.7   0.0     2   177   294   483   293   531 0.84 RmlD substrate binding domain
+GDP_Man_Dehyd        PF16363.8    332 NC_003098.1_89       -            617   9.7e-15   54.9   0.0   1   1   5.4e-17   1.3e-13   51.2   0.0     1   131   296   420   296   545 0.78 GDP-mannose 4,6 dehydratase
+3Beta_HSD            PF01073.22   280 NC_003098.1_89       -            617   2.9e-09   36.5   0.0   1   1   3.8e-12   9.3e-09   34.8   0.0     1   122   296   424   296   435 0.78 3-beta hydroxysteroid dehydrogenase/isomerase family
+GFO_IDH_MocA         PF01408.25   120 NC_003098.1_89       -            617   1.1e-05   26.3   0.0   1   1   1.5e-08   3.7e-05   24.6   0.0     3    81   155   236   153   246 0.80 Oxidoreductase family, NAD-binding Rossmann fold
+HAD_2                PF13419.9    178 NC_003098.1_91       -            211   2.1e-36  125.8   0.0   1   1   4.9e-40   2.4e-36  125.6   0.0     1   178     7   180     7   180 0.98 Haloacid dehalogenase-like hydrolase
+Hydrolase            PF00702.29   210 NC_003098.1_91       -            211   1.6e-08   35.3   0.0   1   1   2.9e-10   1.4e-06   28.9   0.0     1   208     4   172     4   174 0.76 haloacid dehalogenase-like hydrolase
+Hydrolase_like       PF13242.9     75 NC_003098.1_91       -            211   1.2e-08   35.0   0.0   1   1     4e-12     2e-08   34.3   0.0     9    70   142   200   136   205 0.90 HAD-hyrolase-like
+HAD                  PF12710.10   188 NC_003098.1_91       -            211   2.8e-08   34.6   0.0   1   1   7.2e-12   3.6e-08   34.3   0.0     1   185     7   168     7   171 0.75 haloacid dehalogenase-like hydrolase
+SDH_alpha            PF03313.18   260 NC_003098.1_92       -            291   3.6e-75  253.1  10.0   1   1   2.2e-79   4.4e-75  252.8  10.0     5   260    19   275    16   275 0.96 Serine dehydratase alpha chain
+SDH_beta             PF03315.18   155 NC_003098.1_93       -            224   4.3e-15   56.5   0.4   1   1   2.6e-16   2.6e-12   47.5   0.4     1   148     8   132     8   138 0.65 Serine dehydratase beta chain
+ACT                  PF01842.28    66 NC_003098.1_93       -            224   4.8e-10   39.2   0.1   1   1   1.1e-13     1e-09   38.1   0.1     2    65   152   214   151   215 0.96 ACT domain
+LysM                 PF01476.23    44 NC_003098.1_94       -            168   7.3e-14   51.7   0.0   1   1   6.1e-18   1.2e-13   51.0   0.0     1    43    35    77    35    78 0.99 LysM domain
+Lactococcin_972      PF09683.13    63 NC_003098.1_95       -             83   8.4e-24   84.0   2.3   1   1   5.1e-28     1e-23   83.8   2.3     1    63    17    79    17    79 0.99 Bacteriocin (Lactococcin_972)
+ABC_tran             PF00005.30   137 NC_003098.1_97       -            214   2.4e-30  106.0   0.2   1   1   3.1e-34     3e-30  105.6   0.2     1   136    17   165    17   166 0.94 ABC transporter
+SBP_bac_3            PF00497.23   225 NC_003098.1_98       -            269   1.7e-60  204.4   4.0   1   1     3e-64     2e-60  204.2   4.0     1   223    40   262    40   264 0.96 Bacterial extracellular solute-binding proteins, family 3
+NMT1                 PF09084.14   216 NC_003098.1_98       -            269     8e-06   26.0   0.6   1   1   1.8e-09   1.2e-05   25.5   0.6    20   173    79   218    76   253 0.75 NMT1/THI5 like
+Arginosuc_synth      PF00764.22   388 NC_003098.1_99       -            399  7.7e-171  568.8   0.1   1   1  4.5e-175  8.8e-171  568.6   0.1     1   387     7   390     7   391 0.99 Arginosuccinate synthase
+Lyase_1              PF00206.23   312 NC_003098.1_100      -            464   2.3e-65  221.2   0.0   1   1   3.3e-69   3.2e-65  220.7   0.0     1   312    10   304    10   304 0.97 Lyase
+ASL_C2               PF14698.9     69 NC_003098.1_100      -            464   4.3e-23   82.0   0.0   1   1   9.4e-27   9.3e-23   80.9   0.0     1    68   367   434   367   435 0.98 Argininosuccinate lyase C-terminal
+HTH_3                PF01381.25    55 NC_003098.1_101      -            288     1e-09   38.4   0.0   1   1   2.2e-13   2.2e-09   37.4   0.0     2    55    10    62    10    62 0.94 Helix-turn-helix
+Peptidase_C39        PF03412.18   133 NC_003098.1_102      -             74   6.5e-14   52.0   0.0   1   1   3.6e-18     7e-14   51.9   0.0     1    69     4    72     4    73 0.96 Peptidase C39 family
+ABC_membrane         PF00664.26   274 NC_003098.1_103      -            645   6.4e-41  140.9  19.7   1   1   1.4e-44   9.1e-41  140.4  19.7     4   273    74   340    71   341 0.99 ABC transporter transmembrane region
+ABC_tran             PF00005.30   137 NC_003098.1_103      -            645   2.4e-32  112.4   0.0   1   1   7.2e-36   4.7e-32  111.5   0.0     2   137   404   552   403   552 0.90 ABC transporter
+Peptidase_C39        PF03412.18   133 NC_003098.1_103      -            645   3.5e-05   23.8   0.0   1   1   1.4e-08   9.4e-05   22.4   0.0    91   132     2    44     1    45 0.89 Peptidase C39 family
+HlyD_3               PF13437.9    106 NC_003098.1_105      -            451   3.9e-15   56.5   6.7   1   1   9.5e-16   6.2e-12   46.3   0.2     2   102   306   411   305   419 0.81 HlyD family secretion protein
+Biotin_lipoyl_2      PF13533.9     50 NC_003098.1_105      -            451   1.8e-08   34.1   0.6   1   1   1.3e-09   8.4e-06   25.6   0.1     6    46    66   106    64   110 0.81 Biotin-lipoyl like
+Choline_bind_1       PF01473.23    19 NC_003098.1_118      -            620   1.2e-64  211.5  97.6   1  10   4.8e-07    0.0031   17.9   6.1     1    19   402   420   402   420 0.99 Putative cell wall binding repeat
+Choline_bind_1       PF01473.23    19 NC_003098.1_118      -            620   1.2e-64  211.5  97.6   2  10   2.4e-10   1.5e-06   28.3   4.4     1    19   422   440   422   440 0.98 Putative cell wall binding repeat
+Choline_bind_1       PF01473.23    19 NC_003098.1_118      -            620   1.2e-64  211.5  97.6   3  10   1.7e-10   1.1e-06   28.7   4.1     1    19   442   460   442   460 0.98 Putative cell wall binding repeat
+Choline_bind_1       PF01473.23    19 NC_003098.1_118      -            620   1.2e-64  211.5  97.6   4  10   7.8e-11   5.1e-07   29.8   2.0     1    19   462   480   462   480 0.98 Putative cell wall binding repeat
+Choline_bind_1       PF01473.23    19 NC_003098.1_118      -            620   1.2e-64  211.5  97.6   5  10   1.7e-10   1.1e-06   28.7   4.1     1    19   482   500   482   500 0.98 Putative cell wall binding repeat
+Choline_bind_1       PF01473.23    19 NC_003098.1_118      -            620   1.2e-64  211.5  97.6   6  10   7.8e-11   5.1e-07   29.8   2.0     1    19   502   520   502   520 0.98 Putative cell wall binding repeat
+Choline_bind_1       PF01473.23    19 NC_003098.1_118      -            620   1.2e-64  211.5  97.6   7  10   1.7e-10   1.1e-06   28.7   4.1     1    19   522   540   522   540 0.98 Putative cell wall binding repeat
+Choline_bind_1       PF01473.23    19 NC_003098.1_118      -            620   1.2e-64  211.5  97.6   8  10   7.8e-11   5.1e-07   29.8   2.0     1    19   542   560   542   560 0.98 Putative cell wall binding repeat
+Choline_bind_1       PF01473.23    19 NC_003098.1_118      -            620   1.2e-64  211.5  97.6   9  10   1.7e-10   1.1e-06   28.7   0.6     1    19   562   580   562   580 0.98 Putative cell wall binding repeat
+Choline_bind_1       PF01473.23    19 NC_003098.1_118      -            620   1.2e-64  211.5  97.6  10  10   4.7e-06     0.031   14.7   0.8     2    18   584   600   583   601 0.87 Putative cell wall binding repeat
+Choline_bind_3       PF19127.3     48 NC_003098.1_118      -            620   5.4e-58  192.9  50.2   1   5     3e-14     2e-10   40.7   5.4     2    43   402   440   401   440 0.96 Choline-binding repeat
+Choline_bind_3       PF19127.3     48 NC_003098.1_118      -            620   5.4e-58  192.9  50.2   2   5   3.5e-16   2.3e-12   46.9   4.2     1    45   421   462   421   462 0.97 Choline-binding repeat
+Choline_bind_3       PF19127.3     48 NC_003098.1_118      -            620   5.4e-58  192.9  50.2   3   5   5.7e-18   3.8e-14   52.6   3.4     1    45   461   502   461   502 0.97 Choline-binding repeat
+Choline_bind_3       PF19127.3     48 NC_003098.1_118      -            620   5.4e-58  192.9  50.2   4   5   5.7e-18   3.7e-14   52.6   3.4     1    45   501   542   501   542 0.97 Choline-binding repeat
+Choline_bind_3       PF19127.3     48 NC_003098.1_118      -            620   5.4e-58  192.9  50.2   5   5     7e-18   4.6e-14   52.3   3.8     1    48   541   585   541   586 0.96 Choline-binding repeat
+Choline_bind_2       PF19085.3     38 NC_003098.1_118      -            620   1.8e-14   53.7  80.8   1   1     5e-10   3.3e-06   27.3   5.9     2    38   580   618   579   618 0.91 Choline-binding repeat
+tRNA_Me_trans        PF03054.19   202 NC_003098.1_119      -            374   1.7e-88  295.7   0.0   1   1   4.6e-92   2.3e-88  295.3   0.0     2   202     8   204     7   204 0.99 tRNA methyl transferase HUP domain
+tRNA_Me_trans_C      PF20258.1     77 NC_003098.1_119      -            374   6.8e-24   84.1   0.0   1   1   2.3e-27   1.1e-23   83.5   0.0     2    77   286   360   285   360 0.97 Aminomethyltransferase beta-barrel domain
+tRNA_Me_trans_M      PF20259.1     66 NC_003098.1_119      -            374   2.4e-22   78.4   0.1   1   1   8.6e-26   4.2e-22   77.6   0.1     1    66   208   276   208   276 0.98 tRNA methyl transferase PRC-barrel domain
+NAD_synthase         PF02540.20   242 NC_003098.1_119      -            374   3.6e-07   29.7   0.0   1   1   9.1e-10   4.5e-06   26.1   0.0    17    84     5    78     1   127 0.81 NAD synthase
+NUDIX                PF00293.31   131 NC_003098.1_120      -            152   1.4e-12   47.9   0.2   1   1   8.5e-17   1.7e-12   47.7   0.2     5   120    18   128    14   140 0.80 NUDIX domain
+GIDA                 PF01134.25   392 NC_003098.1_121      -            638  4.1e-165  549.7   0.8   1   1  6.1e-169    6e-165  549.2   0.8     1   392    10   402    10   402 0.99 Glucose inhibited division protein A
+GIDA_C               PF13932.9    210 NC_003098.1_121      -            638   2.8e-75  253.2   0.7   1   1   2.8e-79   2.8e-75  253.2   0.7     1   210   404   619   404   619 0.91 tRNA modifying enzyme MnmG/GidA C-terminal domain
+RNase_J_C            PF17770.4    102 NC_003098.1_122      -            560   3.5e-26   92.3   0.1   1   1   1.4e-29   6.6e-26   91.4   0.1     1   100   455   554   455   555 0.99 Ribonuclease J C-terminal domain
+Lactamase_B          PF00753.30   197 NC_003098.1_122      -            560     5e-17   62.7   1.4   1   1   2.1e-20     1e-16   61.6   1.4     4   153    21   168    18   190 0.94 Metallo-beta-lactamase superfamily
+RMMBL                PF07521.15    63 NC_003098.1_122      -            560   4.6e-13   49.1   0.2   1   1   1.2e-15   5.8e-12   45.6   0.1     4    58   356   409   341   417 0.87 Zn-dependent metallo-hydrolase RNA specificity domain
+Lactamase_B_2        PF12706.10   201 NC_003098.1_122      -            560   6.2e-12   45.6   0.1   1   1   2.4e-15   1.2e-11   44.7   0.1    24   144    61   167    34   183 0.83 Beta-lactamase superfamily domain
+RpoY                 PF07288.14    68 NC_003098.1_123      -             78   1.3e-28   99.0   2.8   1   1   7.2e-33   1.4e-28   98.9   2.8     1    68     2    76     2    76 0.98 RNA polymerase epsilon subunit
+ComC                 PF03047.17    31 NC_003098.1_125      -             51   2.4e-05   24.0   0.3   1   1   1.6e-09   3.1e-05   23.7   0.3     1    25     2    23     1    25 0.89 COMC family
+TsaD                 PF00814.28   271 NC_003098.1_127      -            228     5e-28   98.7   0.0   1   1   6.3e-32   1.2e-27   97.4   0.0     3   152    24   146    22   212 0.83 tRNA N6-adenosine threonylcarbamoyltransferase
+Acetyltransf_1       PF00583.28   117 NC_003098.1_128      -            146   1.1e-09   38.7   0.0   1   1   3.2e-13   2.1e-09   37.8   0.0    27   114    39   115    12   117 0.79 Acetyltransferase (GNAT) family
+Acetyltransf_7       PF13508.10    80 NC_003098.1_128      -            146   2.2e-09   37.6   0.1   1   1   5.3e-13   3.5e-09   37.0   0.1     7    75    48   115    39   116 0.78 Acetyltransferase (GNAT) domain
+Acetyltransf_10      PF13673.10   128 NC_003098.1_128      -            146     3e-07   30.6   0.1   1   1     6e-11   3.9e-07   30.2   0.1    20   104    33   115    14   125 0.88 Acetyltransferase (GNAT) domain
+TsaD                 PF00814.28   271 NC_003098.1_129      -            337  8.8e-105  350.4   0.6   1   1    1e-108    1e-104  350.2   0.6     1   271    26   308    26   308 0.96 tRNA N6-adenosine threonylcarbamoyltransferase
+Carbam_trans_N       PF02543.18   346 NC_003098.1_129      -            337   1.9e-07   31.0   0.1   1   1   2.5e-10   2.4e-06   27.3   0.0   128   334   110   296    83   309 0.76 Carbamoyltransferase N-terminus
+DDE_Tnp_ISL3         PF01610.20   240 NC_003098.1_130      -            129   1.6e-19   70.7   0.2   1   1     1e-23     2e-19   70.4   0.2   132   240     8   110     2   110 0.89 Transposase
+DDE_Tnp_ISL3         PF01610.20   240 NC_003098.1_131      -            157   5.4e-28   98.5   1.2   1   1   3.3e-32   6.4e-28   98.2   1.2     4   116     4   115     1   122 0.86 Transposase
+zf-ISL3              PF14690.9     47 NC_003098.1_132      -            150   3.3e-11   43.7   6.6   1   1     2e-15   3.8e-11   43.5   4.6     3    47    57   101    55   101 0.92 zinc-finger of transposase IS204/IS1001/IS1096/IS1165
+Glycos_transf_1      PF00534.23   172 NC_003098.1_133      -            402   2.8e-30  105.2   0.0   1   1   2.5e-33   1.2e-29  103.2   0.0     6   171   210   372   206   373 0.95 Glycosyl transferases group 1
+Glyco_trans_1_4      PF13692.9    135 NC_003098.1_133      -            402   4.9e-20   72.4   0.0   1   1     2e-23   9.8e-20   71.4   0.0     2   135   220   359   219   359 0.89 Glycosyl transferases group 1
+Glyco_transf_4       PF13439.9    170 NC_003098.1_133      -            402   1.8e-16   60.7   0.0   1   1   5.8e-20   2.9e-16   60.1   0.0    56   169    88   197    38   198 0.88 Glycosyltransferase Family 4
+Glycos_transf_2      PF00535.29   170 NC_003098.1_134      -            318   3.6e-26   92.1   0.1   1   1     9e-30   5.9e-26   91.4   0.1     1   109    11   120    11   175 0.79 Glycosyl transferase family 2
+Glyco_tranf_2_3      PF13641.9    230 NC_003098.1_134      -            318   6.2e-08   32.9   0.0   1   1   1.5e-11     1e-07   32.2   0.0     4   117    10   120     7   128 0.85 Glycosyltransferase like family 2
+Glyco_tranf_2_2      PF10111.12   276 NC_003098.1_134      -            318   6.8e-08   32.4   1.5   1   1   1.5e-11     1e-07   31.9   0.3     1   123    11   129    11   148 0.73 Glycosyltransferase like family 2
+ABC_tran             PF00005.30   137 NC_003098.1_135      -            539   1.4e-28  100.2   0.0   1   1   2.3e-32   2.3e-28   99.5   0.0     1   136   343   489   343   490 0.91 ABC transporter
+ABC_membrane         PF00664.26   274 NC_003098.1_135      -            539   1.1e-15   58.2  24.9   1   1   1.5e-19   1.5e-15   57.8  24.9     3   274    14   282    12   282 0.95 ABC transporter transmembrane region
+PIG-L                PF02585.20   130 NC_003098.1_138      -            250   1.4e-18   67.9   0.0   1   1   1.2e-22   2.4e-18   67.1   0.0     2   128     9   158     8   160 0.92 GlcNAc-PI de-N-acetylase
+UDPG_MGDP_dh_N       PF03721.17   187 NC_003098.1_139      -            391   8.3e-26   90.8   0.1   1   1   1.8e-29   1.8e-25   89.8   0.0     1   181     1   168     1   173 0.91 UDP-glucose/GDP-mannose dehydrogenase family, NAD binding domain
+UDPG_MGDP_dh         PF00984.22    94 NC_003098.1_139      -            391   2.2e-24   85.6   0.0   1   1   1.2e-27   1.2e-23   83.2   0.0     2    92   195   283   194   285 0.93 UDP-glucose/GDP-mannose dehydrogenase family, central domain
+HTH_3                PF01381.25    55 NC_003098.1_140      -            288   1.2e-05   25.4   0.0   1   1   1.5e-09   2.9e-05   24.2   0.0     2    55    12    64    12    64 0.97 Helix-turn-helix
+Rce1-like            PF02517.19    92 NC_003098.1_142      -            226   1.5e-16   60.7   6.8   1   1   7.6e-21   1.5e-16   60.7   6.8     5    91   123   213    84   214 0.91 Type II CAAX prenyl endopeptidase Rce1-like
+Rce1-like            PF02517.19    92 NC_003098.1_143      -            222     5e-14   52.5  13.1   1   1     4e-17   7.9e-13   48.7  13.1     4    91   122   213     8   214 0.95 Type II CAAX prenyl endopeptidase Rce1-like
+MFS_1                PF07690.19   353 NC_003098.1_144      -            409     5e-12   45.5  29.7   1   1   5.1e-16     5e-12   45.5  29.7     3   345    15   363    13   371 0.70 Major Facilitator Superfamily
+MFS_3                PF05977.16   524 NC_003098.1_144      -            409   6.9e-07   28.2   9.7   1   1     7e-11   6.9e-07   28.2   9.7     7   192     5   193     3   249 0.81 Transmembrane secretion effector
+AzlC                 PF03591.17   136 NC_003098.1_145      -            199   3.8e-17   63.1   4.1   1   1   3.9e-21   3.8e-17   63.1   4.1    50   136    44   135    32   135 0.91 AzlC protein
+AzlD                 PF05437.15    99 NC_003098.1_145      -            199   1.3e-05   25.4   2.2   1   1   1.3e-09   1.3e-05   25.4   2.2    44    99   140   195   130   195 0.95 Branched-chain amino acid transport protein (AzlD)
+SBP_bac_3            PF00497.23   225 NC_003098.1_146      -            277   1.3e-43  149.2   2.0   1   1   7.5e-48   1.5e-43  149.0   2.0     1   224    40   265    40   266 0.92 Bacterial extracellular solute-binding proteins, family 3
+Lipoprotein_9        PF03180.17   237 NC_003098.1_147      -            285   2.7e-92  308.3   7.2   1   1   1.6e-96   3.1e-92  308.1   7.2     1   237    36   284    36   284 0.98 NlpA lipoprotein
+Peptidase_M20        PF01546.31   207 NC_003098.1_148      -            458     2e-32  112.7   0.0   1   1   2.7e-36   2.7e-32  112.3   0.0     1   206    86   454    86   455 0.88 Peptidase family M20/M25/M40
+M20_dimer            PF07687.17   109 NC_003098.1_148      -            458   2.2e-21   75.9   0.0   1   1     5e-25   4.9e-21   74.8   0.0     2   105   199   356   198   360 0.97 Peptidase dimerisation domain
+ABC_tran             PF00005.30   137 NC_003098.1_149      -            354   2.7e-35  122.0   0.2   1   1   5.9e-39   5.8e-35  120.9   0.2     2   137    26   177    25   177 0.90 ABC transporter
+NIL                  PF09383.13    73 NC_003098.1_149      -            354   1.4e-19   69.9   0.4   1   1   4.3e-23   4.3e-19   68.4   0.2     2    73   277   348   276   348 0.97 NIL domain
+#
+# Program:         hmmscan
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SCAN
+# Query file:      /data3/zhangdw/bac_test/test_prediction/region_annotation/GCF_000007045.1_region_001.fa
+# Target file:     /data3/zhangdw/bac_test/IIBacFinder/domains/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /data3/zhangdw/bac_test/test_prediction/region_annotation/GCF_000007045.1_region_001.hmmscan --cut_ga --cpu 20 /data3/zhangdw/bac_test/IIBacFinder/domains/Pfam-A.hmm /data3/zhangdw/bac_test/test_prediction/region_annotation/GCF_000007045.1_region_001.fa 
+# Current dir:     /data3/zhangdw/bac_test
+# Date:            Mon Dec  9 19:09:17 2024
+# [ok]

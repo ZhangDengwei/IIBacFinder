@@ -1,0 +1,35 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Adenylsucc_synt      PF00709.24   415 NC_002737.2_132      -            431  2.8e-187  622.7   0.0   1   1  1.6e-191  3.2e-187  622.5   0.0     1   414     5   420     5   421 0.99 Adenylosuccinate synthetase
+Bmp                  PF02608.17   302 NC_002737.2_133      -            348   1.6e-76  257.3  13.6   1   1   9.8e-81   1.9e-76  257.0  13.6     4   301    37   347    34   347 0.92 ABC transporter substrate-binding protein PnrA-like
+NusG                 PF02357.22    98 NC_002737.2_134      -            180   3.9e-28   98.0   0.6   1   1   5.8e-32   5.7e-28   97.4   0.2     1    98     7   114     7   114 0.95 Transcription termination factor nusG
+KOW                  PF00467.32    32 NC_002737.2_134      -            180   5.1e-07   29.5   0.2   1   1   1.1e-10     1e-06   28.5   0.2     2    28   131   157   130   161 0.92 KOW motif
+NADase_NGA           PF07461.14   446 NC_002737.2_135      -            448  1.1e-248  825.5  20.8   1   1  6.3e-253  1.2e-248  825.3  20.8     1   446     1   446     1   446 1.00 Nicotine adenine dinucleotide glycohydrolase (NADase)
+IFS                  PF16718.8    164 NC_002737.2_137      -            119   8.9e-45  152.9   0.7   1   1     5e-49   9.8e-45  152.7   0.7    44   164     1   118     1   118 0.99 Immunity factor for SPN
+Thiol_cytolysin      PF01289.22   354 NC_002737.2_138      -            572  6.1e-147  489.1  14.6   1   1  7.9e-151  7.8e-147  488.8  14.6     1   354   108   460   108   460 1.00 Thiol-activated cytolysin
+Thiol_cytolys_C      PF17440.5    102 NC_002737.2_138      -            572   6.8e-40  135.5   1.2   1   1   6.9e-44   6.8e-40  135.5   1.2     1   101   464   564   464   565 0.99 Thiol-activated cytolysin beta sandwich domain
+Cys_Met_Meta_PP      PF01053.23   382 NC_002737.2_143      -            463  1.5e-136  455.0   0.2   1   1  2.8e-140  1.8e-136  454.8   0.2     2   381    88   460    87   461 0.98 Cys/Met metabolism PLP-dependent enzyme
+Aminotran_1_2        PF00155.24   363 NC_002737.2_143      -            463   3.4e-08   33.2   0.2   1   1   7.8e-12   5.1e-08   32.6   0.2    66   247   148   307   123   358 0.72 Aminotransferase class I and II
+DegT_DnrJ_EryC1      PF01041.20   360 NC_002737.2_143      -            463   7.9e-08   32.0   0.2   1   1   1.1e-10   7.2e-07   28.9   0.1    24   145   134   254   124   263 0.89 DegT/DnrJ/EryC1/StrS aminotransferase family
+tRNA-synt_1_2        PF13603.9    185 NC_002737.2_144      -            834   1.7e-63  213.6   0.1   1   1   6.3e-67   3.1e-63  212.8   0.1     1   185   221   401   221   401 0.97 Leucyl-tRNA synthetase, Domain 2
+tRNA-synt_1          PF00133.25   602 NC_002737.2_144      -            834   5.4e-60  203.4  11.2   1   3   1.1e-46   5.5e-43  147.2   8.5     1   351    12   405    12   414 0.89 tRNA synthetases class I (I, L, M and V)
+tRNA-synt_1          PF00133.25   602 NC_002737.2_144      -            834   5.4e-60  203.4  11.2   2   3   2.4e-09   1.2e-05   24.0   0.0   416   557   414   571   408   580 0.72 tRNA synthetases class I (I, L, M and V)
+tRNA-synt_1          PF00133.25   602 NC_002737.2_144      -            834   5.4e-60  203.4  11.2   3   3   3.5e-10   1.7e-06   26.7   0.0   562   591   609   638   601   650 0.84 tRNA synthetases class I (I, L, M and V)
+tRNA-synt_1g         PF09334.14   391 NC_002737.2_144      -            834   4.1e-23   81.9   1.8   1   1   1.4e-19   6.7e-16   58.2   0.0     7   130    40   166    38   240 0.92 tRNA synthetases class I (M)
+Anticodon_1          PF08264.16   152 NC_002737.2_144      -            834   2.6e-16   60.1   0.2   1   1   1.7e-19   8.2e-16   58.4   0.2     7   147   684   794   680   801 0.83 Anticodon-binding domain of tRNA ligase
+EIIC-GAT             PF03611.17   395 NC_002737.2_145      -            478    2e-107  359.9  38.9   1   1  1.3e-111  2.6e-107  359.5  38.9     1   386    14   420    14   427 0.95 PTS system sugar-specific permease component
+PTS_IIB              PF02302.20    90 NC_002737.2_146      -             93   1.4e-16   61.0   0.2   1   1   8.2e-21   1.6e-16   60.9   0.2     1    90     3    90     3    90 0.94 PTS system, Lactose/Cellobiose specific IIB subunit
+PTS_EIIA_2           PF00359.25   144 NC_002737.2_147      -            162   1.2e-30  106.5   0.0   1   1   6.8e-35   1.3e-30  106.3   0.0     2   143     7   147     6   148 0.96 Phosphoenolpyruvate-dependent sugar phosphotransferase system, EIIA 2
+OMPdecase            PF00215.27   225 NC_002737.2_148      -            221   8.1e-28   97.7   0.4   1   1   4.7e-32   9.3e-28   97.5   0.4     1   224     5   210     5   211 0.93 Orotidine 5'-phosphate decarboxylase / HUMPS family
+AP_endonuc_2         PF01261.27   250 NC_002737.2_149      -            288   4.5e-52  177.4   0.0   1   1   2.6e-56   5.1e-52  177.2   0.0     1   248    22   278    22   280 0.93 Xylose isomerase-like TIM barrel
+#
+# Program:         hmmscan
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SCAN
+# Query file:      /data3/zhangdw/bac_test/test_prediction/region_annotation/GCF_000006785.2_region_002.fa
+# Target file:     /data3/zhangdw/bac_test/IIBacFinder/domains/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /data3/zhangdw/bac_test/test_prediction/region_annotation/GCF_000006785.2_region_002.hmmscan --cut_ga --cpu 20 /data3/zhangdw/bac_test/IIBacFinder/domains/Pfam-A.hmm /data3/zhangdw/bac_test/test_prediction/region_annotation/GCF_000006785.2_region_002.fa 
+# Current dir:     /data3/zhangdw/bac_test
+# Date:            Mon Dec  9 19:07:12 2024
+# [ok]

@@ -1,0 +1,34 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MCRA                 PF06100.14   495 NC_002737.2_365      -            591  2.4e-211  703.0   0.1   1   1  3.3e-215  3.2e-211  702.6   0.1     1   495    22   521    22   521 0.98 MCRA family
+NAD_binding_8        PF13450.9     68 NC_002737.2_365      -            591   1.1e-05   25.6   0.1   1   1   2.3e-09   2.3e-05   24.7   0.1     1    50    27    81    27    97 0.72 NAD(P)-binding Rossmann-like domain
+PhoH                 PF02562.19   205 NC_002737.2_366      -            351   7.9e-95  316.3   0.3   1   1   2.5e-98   1.2e-94  315.6   0.3     2   205   112   315   111   315 0.99 PhoH-like protein
+AAA_30               PF13604.9    192 NC_002737.2_366      -            351   1.2e-07   31.8   0.3   1   1   6.1e-11     3e-07   30.5   0.0     5   128   118   268   116   286 0.74 AAA domain
+IstB_IS21            PF01695.20   238 NC_002737.2_366      -            351   1.2e-05   25.1   0.0   1   1   4.5e-09   2.2e-05   24.2   0.0    79   122   113   159    80   176 0.80 IstB-like ATP binding protein
+UDG                  PF03167.22   155 NC_002737.2_367      -            192   6.4e-17   62.1   0.0   1   1   3.8e-21   7.5e-17   61.9   0.0     4   151    28   178    25   182 0.83 Uracil DNA glycosylase superfamily
+YbeY                 PF02130.20   131 NC_002737.2_368      -            166   8.6e-40  135.7   1.3   1   1   5.3e-44     1e-39  135.4   1.3     7   130    16   159     6   160 0.83 Endoribonuclease YbeY
+DAGK_prokar          PF01219.22   102 NC_002737.2_369      -            136   2.3e-32  111.0   7.1   1   1   1.4e-36   2.7e-32  110.8   7.1     2   102    24   125    23   125 0.98 Prokaryotic diacylglycerol kinase
+MMR_HSR1             PF01926.26   114 NC_002737.2_370      -            299   2.4e-23   82.5   0.7   1   1   1.3e-26   3.7e-23   81.9   0.1     2   114     7   121     6   121 0.88 50S ribosome-binding GTPase
+KH_2                 PF07650.20    78 NC_002737.2_370      -            299   9.8e-23   79.9   2.7   1   1   3.5e-26   9.8e-23   79.9   2.7     1    78   204   282   204   282 0.93 KH domain
+FeoB_N               PF02421.21   156 NC_002737.2_370      -            299   4.9e-14   52.3   0.1   1   1   1.7e-17   4.9e-14   52.3   0.1     3   154     7   162     6   164 0.88 Ferrous iron transport protein B
+GTP_EFTU             PF00009.30   195 NC_002737.2_370      -            299   9.7e-12   45.0   0.5   1   1   1.5e-13   4.3e-10   39.6   0.5    55   194    38   169     4   170 0.77 Elongation factor Tu GTP binding domain
+NUDIX                PF00293.31   131 NC_002737.2_371      -            159   8.2e-19   68.1   0.1   1   1   4.9e-23   9.7e-19   67.8   0.1     6   127    23   145    21   149 0.80 NUDIX domain
+Bacteriocin_IIc      PF10439.12    62 NC_002737.2_373      -             82   2.8e-12   46.6  11.2   1   1   1.4e-16   2.8e-12   46.6  11.2     4    62     5    63     2    63 0.96 Bacteriocin class II with double-glycine leader peptide
+Transposase_mut      PF00872.21   381 NC_002737.2_375      -             50   3.4e-13   49.3   0.0   1   1   1.7e-17   3.4e-13   49.3   0.0   315   357     5    47     1    49 0.91 Transposase, Mutator family
+Transposase_mut      PF00872.21   381 NC_002737.2_376      -            141   1.4e-39  136.2   0.0   1   1   8.1e-44   1.6e-39  136.0   0.0    11   132     7   129     1   139 0.91 Transposase, Mutator family
+Bacteriocin_IIc      PF10439.12    62 NC_002737.2_377      -             55   1.8e-12   47.2   0.7   1   1   9.3e-17   1.8e-12   47.2   0.7     1    47     6    53     1    54 0.90 Bacteriocin class II with double-glycine leader peptide
+HTH_3                PF01381.25    55 NC_002737.2_385      -            289   8.4e-08   32.3   0.3   1   1   3.2e-11   6.3e-07   29.5   0.1     1    55     9    62     9    62 0.97 Helix-turn-helix
+Fapy_DNA_glyco       PF01149.27   119 NC_002737.2_386      -            276     2e-32  112.5   0.1   1   1   5.7e-36   3.8e-32  111.6   0.1     1   118     1   114     1   115 0.93 Formamidopyrimidine-DNA glycosylase N-terminal domain
+H2TH                 PF06831.17    93 NC_002737.2_386      -            276     1e-31  108.9   0.0   1   1   3.1e-35   2.1e-31  107.9   0.0     1    91   132   222   132   224 0.98 Formamidopyrimidine-DNA glycosylase H2TH domain
+zf-FPG_IleRS         PF06827.17    30 NC_002737.2_386      -            276   1.1e-11   44.4   5.8   1   1     2e-15   1.3e-11   44.2   4.8     1    29   244   272   244   273 0.98 Zinc finger found in FPG and IleRS
+#
+# Program:         hmmscan
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SCAN
+# Query file:      /data3/zhangdw/bac_test/test_prediction/region_annotation/GCF_000006785.2_region_001.fa
+# Target file:     /data3/zhangdw/bac_test/IIBacFinder/domains/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /data3/zhangdw/bac_test/test_prediction/region_annotation/GCF_000006785.2_region_001.hmmscan --cut_ga --cpu 20 /data3/zhangdw/bac_test/IIBacFinder/domains/Pfam-A.hmm /data3/zhangdw/bac_test/test_prediction/region_annotation/GCF_000006785.2_region_001.fa 
+# Current dir:     /data3/zhangdw/bac_test
+# Date:            Mon Dec  9 19:06:28 2024
+# [ok]

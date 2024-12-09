@@ -1,0 +1,31 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ABC_tran             PF00005.30   137 NC_003098.1_1167     -            661   3.2e-66  222.2   0.0   1   2   1.3e-32   2.3e-29  102.8   0.0     2   136    26   189    25   190 0.85 ABC transporter
+ABC_tran             PF00005.30   137 NC_003098.1_1167     -            661   3.2e-66  222.2   0.0   2   2   4.3e-37   7.6e-34  117.3   0.0     1   136   376   531   376   532 0.96 ABC transporter
+oligo_HPY            PF08352.15    65 NC_003098.1_1167     -            661   2.5e-24   85.7   0.1   1   2   9.6e-19   1.7e-15   57.4   0.0     1    57   241   298   241   304 0.97 Oligopeptide/dipeptide transporter, C-terminal region
+oligo_HPY            PF08352.15    65 NC_003098.1_1167     -            661   2.5e-24   85.7   0.1   2   2   7.9e-09   1.4e-05   25.6   0.1     1    34   583   618   583   635 0.82 Oligopeptide/dipeptide transporter, C-terminal region
+BPD_transp_1         PF00528.25   185 NC_003098.1_1168     -            284   1.5e-26   93.4  12.8   1   1   2.1e-30   2.1e-26   93.0   9.7     1   182    98   281    98   283 0.98 Binding-protein-dependent transport system inner membrane component
+OppC_N               PF12911.10    51 NC_003098.1_1168     -            284   4.4e-10   39.5   0.4   1   1   4.5e-14   4.4e-10   39.5   0.4     2    51     6    57     5    57 0.88 N-terminal TM domain of oligopeptide transport permease C
+BPD_transp_1         PF00528.25   185 NC_003098.1_1169     -            317   1.5e-42  145.6  20.2   1   1   1.5e-46   1.5e-42  145.6  20.2     1   185   115   316   115   316 0.99 Binding-protein-dependent transport system inner membrane component
+BPD_transp_1_N       PF19300.2    114 NC_003098.1_1169     -            317   2.1e-11   44.1   0.0   1   1   5.1e-14     5e-10   39.7   0.0     1   113     1   103     1   104 0.86 Binding-prot-dependent transport system membrane comp, N-term
+SBP_bac_5            PF00496.25   377 NC_003098.1_1170     -            543   3.2e-64  217.4  10.7   1   1     2e-68     4e-64  217.1  10.7     3   363    85   454    83   467 0.89 Bacterial extracellular solute-binding proteins, family 5 Middle
+NanE                 PF04131.17   192 NC_003098.1_1172     -            233   1.4e-76  256.1   0.2   1   1   8.4e-81   1.7e-76  255.9   0.2     2   189    38   230    37   232 0.98 Putative N-acetylmannosamine-6-phosphate epimerase
+DDE_Tnp_4            PF13359.9    158 NC_003098.1_1173     -             88   1.4e-08   34.7   0.1   1   1   1.6e-12   1.5e-08   34.6   0.1    79   142     1    67     1    82 0.83 DDE superfamily endonuclease
+DDE_Tnp_1            PF01609.24   214 NC_003098.1_1173     -             88   1.6e-06   28.1   0.1   1   1   1.9e-10   1.9e-06   27.8   0.1    82   202     2    70     1    78 0.82 Transposase DDE domain
+ABC_tran             PF00005.30   137 NC_003098.1_1177     -            247   3.6e-30  105.4   0.0   1   1   2.5e-34     5e-30  104.9   0.0     1   136    27   173    27   174 0.91 ABC transporter
+ABC_tran             PF00005.30   137 NC_003098.1_1178     -            536   1.3e-24   87.3   0.0   1   1   2.8e-28   2.8e-24   86.3   0.0     4   135   345   483   343   485 0.91 ABC transporter
+ABC_membrane         PF00664.26   274 NC_003098.1_1178     -            536   1.3e-20   74.3  19.5   1   1   1.3e-24   1.3e-20   74.3  19.5    13   262    16   268    10   273 0.93 ABC transporter transmembrane region
+Peptidase_S9         PF00326.24   212 NC_003098.1_1179     -            647   2.3e-30  105.8   0.0   1   1   3.8e-34   3.7e-30  105.1   0.0     9   207   438   640   430   644 0.93 Prolyl oligopeptidase family
+LANC_like            PF05147.16   352 NC_003098.1_1180     -            870   1.1e-08   34.3  10.2   1   1   1.1e-10   5.6e-07   28.6   3.7    21   242   546   764   537   782 0.75 Lanthionine synthetase C-like protein
+Rce1-like            PF02517.19    92 NC_003098.1_1182     -            196   9.3e-14   51.7  13.5   1   1   6.5e-18   1.3e-13   51.2   6.6     3    92   102   188   100   188 0.95 Type II CAAX prenyl endopeptidase Rce1-like
+#
+# Program:         hmmscan
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SCAN
+# Query file:      /data3/zhangdw/bac_test/test_prediction/region_annotation/GCF_000007045.1_region_006.fa
+# Target file:     /data3/zhangdw/bac_test/IIBacFinder/domains/Pfam-A.hmm
+# Option settings: hmmscan --domtblout /data3/zhangdw/bac_test/test_prediction/region_annotation/GCF_000007045.1_region_006.hmmscan --cut_ga --cpu 20 /data3/zhangdw/bac_test/IIBacFinder/domains/Pfam-A.hmm /data3/zhangdw/bac_test/test_prediction/region_annotation/GCF_000007045.1_region_006.fa 
+# Current dir:     /data3/zhangdw/bac_test
+# Date:            Mon Dec  9 19:12:33 2024
+# [ok]
