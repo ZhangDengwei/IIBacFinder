@@ -102,7 +102,7 @@ Key parameters:
 
 - -p: If the input FASTA files are genome sequences, this parameter should remain at its default setting to run gene prediction using `prodigal_short`. If the input FASTA files are prediction results from `prodigal_short`, this parameter should be specified to skip the `prodigal_short` prediction step.
 
-- -m: The prediction model for `prodigal_short` prediction, see for details at [prodigal](https://github.com/hyattpd/prodigal/wiki/gene-prediction-modes).
+- -m: The prediction model for `prodigal_short` prediction, see more details at [prodigal](https://github.com/hyattpd/prodigal/wiki/gene-prediction-modes).
 
 ## Running a demo:
 
