@@ -242,7 +242,7 @@ IIBacFinder generates output files explained below:
      
      - `AMP_name`: AMP description in the database
      
-     - `AMP_database`: AMP database, including [APD3](https://aps.unmc.edu/), [DRAMP](http://dramp.cpu-bioinfor.org/), [DBAASP]([Antimicrobial Peptide Database - DBAASP](https://dbaasp.org/home)), and [dbAMP2](https://awi.cuhk.edu.cn/dbAMP/) 
+     - `AMP_database`: AMP database, including [APD3](https://aps.unmc.edu/), [DRAMP](http://dramp.cpu-bioinfor.org/), [DBAASP](https://dbaasp.org/home), and [dbAMP2](https://awi.cuhk.edu.cn/dbAMP/) 
    
    - `all.precusors.gg.fa` and `all.precusors.gg.json`
      
