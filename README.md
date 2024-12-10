@@ -4,7 +4,7 @@
 
 **Workflow**:
 
-![image](https://github.com/ZhangDengwei/IIBacFinder/blob/main/IMGs/1.png%20=600x600)
+![image](https://github.com/ZhangDengwei/IIBacFinder/blob/main/IMGs/1.png#pic_center =600x600)
 
 *Overview of IIBacFinder specializing in detecting unmodified bacteriocins*
 
