@@ -216,17 +216,17 @@ IIBacFinder generates output files explained below:
      
      - `Length__core`: Length of the predicted mature sequence
      
-     - `Charge (pH=7)__core`: Charge of the predicted mature sequence annotated by [`peptides.py`]((https://peptides.readthedocs.io/en/stable/index.html)
+     - `Charge (pH=7)__core`: Charge of the predicted mature sequence annotated by [`peptides.py`](https://peptides.readthedocs.io/en/stable/index.html)
      
-     - `Isoelectric_point__core`: Isoelectric point of the predicted mature sequence annotated by [`peptides.py`]((https://peptides.readthedocs.io/en/stable/index.html)
+     - `Isoelectric_point__core`: Isoelectric point of the predicted mature sequence annotated by [`peptides.py`](https://peptides.readthedocs.io/en/stable/index.html)
      
-     - `Molecular_weight (monoisotopic)__core`: Molecular weight of the predicted mature sequence annotated by [`peptides.py`]((https://peptides.readthedocs.io/en/stable/index.html)
+     - `Molecular_weight (monoisotopic)__core`: Molecular weight of the predicted mature sequence annotated by [`peptides.py`](https://peptides.readthedocs.io/en/stable/index.html)
      
-     - `Aliphatic_index__core`: Aliphatic index of the predicted mature sequence annotated by [`peptides.py`]((https://peptides.readthedocs.io/en/stable/index.html)
+     - `Aliphatic_index__core`: Aliphatic index of the predicted mature sequence annotated by [`peptides.py`](https://peptides.readthedocs.io/en/stable/index.html)
      
-     - `Boman__core`: Boman index of the predicted mature sequence annotated by [`peptides.py`]((https://peptides.readthedocs.io/en/stable/index.html)
+     - `Boman__core`: Boman index of the predicted mature sequence annotated by [`peptides.py`](https://peptides.readthedocs.io/en/stable/index.html)
      
-     - `Instability_index__core`: Instability index of the predicted mature sequence annotated by [`peptides.py`]((https://peptides.readthedocs.io/en/stable/index.html)
+     - `Instability_index__core`: Instability index of the predicted mature sequence annotated by [`peptides.py`](https://peptides.readthedocs.io/en/stable/index.html)
      
      - `Hsp_len`: The length of best hit when querying predicted bacteriocin sequence against publically available AMP sequences 
      
