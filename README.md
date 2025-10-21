@@ -264,4 +264,5 @@ IIBacFinder generates output files explained below:
 
 ## Reference:
 
-Zhang, Dengwei, et al. "Systematically investigating and identifying unmodified bacteriocins in the human gut microbiome." *bioRxiv* (2024): 2024-07.
+Zhang D, Zou Y, Shi Y, et al. Systematically investigating and identifying bacteriocins in the human gut microbiome. Cell Genom. Published online August 26, 2025. doi:[10.1016/j.xgen.2025.100983](https://www.cell.com/cell-genomics/fulltext/S2666-979X(25)00239-3)
+
