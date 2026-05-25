@@ -257,7 +257,7 @@ IIBacFinder generates output files explained below:
 
 ## After predicting:
 
-*Let's say that you need to deactivate the environment after the prediction, you can run*
+Let's say that you need to deactivate the environment after the prediction, you can run
 
 ```
 source $path/env_IIBacFinder/bin/deactivate
