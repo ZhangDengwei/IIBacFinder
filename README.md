@@ -35,12 +35,12 @@ conda unpack
 
 `$path` is where the IIBacFinder environment will be unpacked and cloned.
 
-3. install [signalp6](https://services.healthtech.dtu.dk/services/signalp-6.0#)
+3. install [signalp6](https://services.healthtech.dtu.dk/services/SignalP-6.0/)
 
 *Due to license restrictions, this recipe cannot distribute signalp6 directly.*
 
 Please download signalp-6.0d.fast.tar.gz from:  
-https://services.healthtech.dtu.dk/cgi-bin/sw_request?software=signalp&version=6.0&packageversion=6.0h&platform=fast
+https://services.healthtech.dtu.dk/cgi-bin/sw_request?software=signalp&version=6.0&packageversion=6.0i&platform=fast
 
 After registering online, you will receive the link for package download via email, and then download the package locally. 
 
