@@ -17,7 +17,7 @@
 1. Download the latest version of IIBacFinder from [zenodo](https://zenodo.org/records/14292149). Of note, do not clone the package directly from the GitHub repository as it is incomplete
 
 ```
-wget -O IIBacFinder.tar.gz https://zenodo.org/records/14292149/files/IIBacFinder.tar.gz?download=1
+wget -O IIBacFinder.tar.gz https://zenodo.org/records/20374563/files/IIBacFinder.tar.gz?download=1
 tar -zxvf IIBacFinder.tar.gz
 ```
 
@@ -25,22 +25,20 @@ tar -zxvf IIBacFinder.tar.gz
 
 ```
 # download
-wget -O env_IIBacFinder.tar.gz https://zenodo.org/records/14292149/files/env_IIBacFinder.tar.gz?download=1
+wget -O env_IIBacFinder.tar.gz https://zenodo.org/records/20374563/files/env_IIBacFinder.tar.gz?download=1
 # clone
-mkdir -p $path/env_IIBacFinder
-tar -xzf env_IIBacFinder.tar.gz -C $path/env_IIBacFinder
-source $path/env_IIBacFinder/bin/activate
+mkdir -p ./env_IIBacFinder
+tar -xzf env_IIBacFinder.tar.gz -C ./env_IIBacFinder
+source ./env_IIBacFinder/bin/activate
 conda unpack
 ```
 
-`$path` is where the IIBacFinder environment will be unpacked and cloned.
-
-3. install [signalp6](https://services.healthtech.dtu.dk/services/SignalP-6.0/)
+3. Install [signalp6](https://services.healthtech.dtu.dk/services/signalp-6.0#)
 
 *Due to license restrictions, this recipe cannot distribute signalp6 directly.*
 
 Please download signalp-6.0d.fast.tar.gz from:  
-https://services.healthtech.dtu.dk/cgi-bin/sw_request?software=signalp&version=6.0&packageversion=6.0i&platform=fast
+https://services.healthtech.dtu.dk/cgi-bin/sw_request?software=signalp&version=6.0&packageversion=6.0h&platform=fast
 
 After registering online, you will receive the link for package download via email, and then download the package locally. 
 
@@ -50,23 +48,24 @@ Assuming you have downloaded the package locally, then run the following command
 signalp6-register signalp-*tar.gz
 ```
 
-This will copy signalp6 into your conda environment. After this step, the installation of IIBacFinder will be complete.
+This will copy signalp6 into your conda environment. 
 
-*Let's say that you need to deactivate the environment after the prediction, you can run*
+4. Install IIBacFinder in development mode
 
 ```
-source $path/env_IIBacFinder/bin/deactivate
+cd IIBacFinder
+pip install --user -e .
 ```
+
+After this step, the installation of IIBacFinder will be complete.
 
 ## Running IIBacFinder
 
 To confirm the successful installation and view all options, execute the command below
 
 ```
-python $PATH/IIBacFinder/scripts/predict.py -h
+IIBacFinder -h
 ```
-
-`$PATH` is the directory where `IIBacFinder` was placed. 
 
 ```
 usage: IIBacFinder [-h] -i INDIR [-e HMMEXCUTE] [-a AMPEP] [-r RCMD] [-s HMMSCAN] -o OUTDIR [-t THRESHOLD] [-p] [-m {single,meta}] [-v]
@@ -107,7 +106,7 @@ Key parameters:
 ## Running a demo:
 
 ```
-python $PATH/IIBacFinder/scripts/predict.py -i $PATH/IIBacFinder/test_fasta/ -o test_prediction
+IIBacFinder -i ./IIBacFinder/test_fasta/ -o test_prediction
 ```
 
 Prediction results can be found in `test_prediction`.
@@ -256,6 +255,16 @@ IIBacFinder generates output files explained below:
      
      Overall predicted bacteriocin precursor sequences
 
+## After predicting:
+
+*Let's say that you need to deactivate the environment after the prediction, you can run*
+
+```
+source $path/env_IIBacFinder/bin/deactivate
+```
+
+`$path` is where the IIBacFinder environment was unpacked and cloned.
+
 ## Notes:
 
 - IIBacFinder may overlook certain precursors due to its prediction threshold, especially for glycine-type bacteriocins, which can sometimes have multiple precursors within a single gene cluster. Therefore, it is advisable to double-check the predicted gene cluster instead of relying solely on precursor prediction.
@@ -265,4 +274,3 @@ IIBacFinder generates output files explained below:
 ## Reference:
 
 Zhang D, Zou Y, Shi Y, et al. Systematically investigating and identifying bacteriocins in the human gut microbiome. Cell Genom. Published online August 26, 2025. doi:[10.1016/j.xgen.2025.100983](https://www.cell.com/cell-genomics/fulltext/S2666-979X(25)00239-3)
-
