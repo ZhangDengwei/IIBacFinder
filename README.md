@@ -265,6 +265,11 @@ source $path/env_IIBacFinder/bin/deactivate
 
 `$path` is where the IIBacFinder environment was unpacked and cloned.
 
+Noting that reactivating the environment is necessary when running `IIBacFinder` next time.
+```
+source $path/env_IIBacFinder/bin/activate
+```
+
 ## Notes:
 
 - IIBacFinder may overlook certain precursors due to its prediction threshold, especially for glycine-type bacteriocins, which can sometimes have multiple precursors within a single gene cluster. Therefore, it is advisable to double-check the predicted gene cluster instead of relying solely on precursor prediction.
