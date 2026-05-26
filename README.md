@@ -59,7 +59,7 @@ pip install -e .
 
 After this step, the installation of IIBacFinder will be complete.
 
-<font color="red">We recommend running the demo before analyzing your own data, in case unexpected bugs come out.</font>
+<font color=red>We recommend running the demo before analyzing your own data, in case unexpected bugs come out.</font>
 
 ## Running IIBacFinder
 
