@@ -18,7 +18,7 @@
 
 ```
 wget -O IIBacFinder.tar.gz https://zenodo.org/records/20374563/files/IIBacFinder.tar.gz?download=1
-tar -zxvf IIBacFinder.tar.gz
+tar -zxvf IIBacFinder.tar.gz --exclude="._*"
 ```
 
 2. Download and clone the execution environment for IIBacFinder
