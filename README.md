@@ -54,7 +54,7 @@ This will copy signalp6 into your conda environment.
 
 ```
 cd IIBacFinder
-pip install --user -e .
+pip install -e .
 ```
 
 After this step, the installation of IIBacFinder will be complete.
