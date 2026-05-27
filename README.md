@@ -25,7 +25,7 @@ tar -zxvf IIBacFinder.tar.gz --exclude="._*"
 
 ```
 # download
-wget -O env_IIBacFinder.tar.gz https://zenodo.org/records/20374563/files/env_IIBacFinder.tar.gz?download=1
+wget -O env_IIBacFinder.tar.gz https://zenodo.org/records/14292149/files/env_IIBacFinder.tar.gz?download=1
 # clone
 mkdir -p ./env_IIBacFinder
 tar -xzf env_IIBacFinder.tar.gz -C ./env_IIBacFinder
