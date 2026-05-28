@@ -14,7 +14,7 @@
 
 ## Installation
 
-1. Download the latest version of IIBacFinder from [zenodo](https://zenodo.org/records/20374563). Of note, do not clone the package directly from the GitHub repository as it is incomplete
+1. Download the latest version of IIBacFinder from [zenodo](https://zenodo.org/records/20404798). Of note, do not clone the package directly from the GitHub repository as it is incomplete
 
 ```
 wget -O IIBacFinder.tar.gz https://zenodo.org/records/20404798/files/IIBacFinder.tar.gz?download=1
