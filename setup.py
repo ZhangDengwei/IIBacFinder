@@ -2,8 +2,9 @@ from setuptools import setup, find_packages
 
 setup(
     name="IIBacFinder",
-    version="1.0.0",
+    version="1.2.0",
     packages=find_packages(),
+    license="GPL-3.0-only",
     entry_points={
         'console_scripts': [
             'IIBacFinder=scripts.predict:main',
