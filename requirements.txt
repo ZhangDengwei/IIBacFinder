@@ -4,5 +4,7 @@ peptides
 pandas_ml
 torch==1.13.1
 pyrodigal>=3.7
-git+https://github.com/fastai/fastai.git@fee0e6a0b3af033d41d3468df1c138aecb134926
+spacy==3.7.4
+fastai==1.0.40
+#git+https://github.com/fastai/fastai.git
 git+https://github.com/tlawrence3/amPEPpy.git
