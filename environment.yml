@@ -1,0 +1,31 @@
+name: IIBacFinder
+channels:
+  - predector
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.8
+  - signalp6=6.0h
+  - pip
+  - hmmer>=3.3
+  - diamond>=2.1
+  - r-base>=4.1
+  - r-ampir
+  - r-gggenes
+  - r-ggplot2
+  - r-dplyr
+  - r-cowplot
+  - r-ggrepel
+  - r-gridextra
+  - pandas
+  - numpy
+  - biopython
+  - pyfastx
+  - pysam
+  - tqdm
+  - matplotlib-base
+  - scikit-learn
+  - networkx
+  - pip:
+      - -r requirements.txt
