@@ -96,7 +96,6 @@ bash download_data.sh
 
 ```bash
 IIBacFinder -h
-IIBacFinder -i test_fasta/ -o test_prediction
 ```
 
 > **Important**
