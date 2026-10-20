@@ -1,7 +1,4 @@
-if (!require("ampir", quietly = TRUE)){
-  install.packages("ampir", repos = "http://cran.us.r-project.org")
-  require("ampir", quietly = TRUE)
-}
+require("ampir", quietly = TRUE)
   
 
 args <- commandArgs(T)
