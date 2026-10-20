@@ -60,22 +60,28 @@ https://services.healthtech.dtu.dk/cgi-bin/sw_request?software=signalp&version=6
 
 Submit the request at the DTU page above, then download the tarball from the link sent to your email.
 
+With the `IIBacFinder` environment active, run:
+
+```bash
+signalp6-register signalp-6.0i.fast.tar.gz
+signalp6 --help
+```
+
 If SignalP registration or execution fails with:
 
 ```text
 ImportError: /lib64/libstdc++.so.6: version `GLIBCXX_3.4.29' not found
 ```
 
-run the following command before `signalp6-register` and before running IIBacFinder:
+run the following command before `signalp6-register`:
 
 ```bash
 export LD_LIBRARY_PATH=$CONDA_PREFIX/lib:$LD_LIBRARY_PATH
 ```
 
-With the `IIBacFinder` environment active, run:
+and install again
 
 ```bash
-export LD_LIBRARY_PATH=$CONDA_PREFIX/lib:$LD_LIBRARY_PATH
 signalp6-register signalp-6.0i.fast.tar.gz
 signalp6 --help
 ```
