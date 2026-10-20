@@ -147,7 +147,7 @@ Key parameters:
 ## Running a demo:
 
 ```
-IIBacFinder -i ./IIBacFinder/test_fasta/ -o test_prediction
+IIBacFinder -i ./test_fasta/ -o test_prediction
 ```
 
 Prediction results can be found in `test_prediction`.
