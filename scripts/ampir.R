@@ -1,4 +1,4 @@
-require("ampir", quietly = TRUE)
+library("ampir")
   
 
 args <- commandArgs(T)
