@@ -172,9 +172,9 @@ IIBacFinder generates output files explained below:
    
    - `region_annotation`
      
-     Domain scanning for bactericoin gene clusters
+     Domain scanning for bacteriocin gene clusters
    
-   - `diamond_alingment`
+   - `diamond_alignment`
      
      Blast results for predicted bacteriocin precursors against publicly available AMP sequences
    
