@@ -298,7 +298,7 @@ def main():
 	out_d = os.path.join(args.outDir, "prediction_domain")
 	out_annotation = os.path.join(args.outDir, "region_annotation")
 	out_plot = os.path.join(args.outDir, "region_plot")
-	out_diamond = os.path.join(args.outDir, "diamond_alingment")
+	out_diamond = os.path.join(args.outDir, "diamond_alignment")
 	# Create folder
 	if not os.path.exists(out_d):
 		os.makedirs(out_d)
