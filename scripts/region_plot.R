@@ -1,35 +1,11 @@
-if (!require("ggplot2", quietly = TRUE)){
-  install.packages("ggplot2", repos = "http://cran.us.r-project.org")
-  require("ggplot2", quietly = TRUE)
-}
-if (!require("gggenes", quietly = TRUE)){
-  install.packages("gggenes", repos = "http://cran.us.r-project.org")
-  require("gggenes", quietly = TRUE)
-}
-if (!require("dplyr", quietly = TRUE)){
-  install.packages("dplyr", repos = "http://cran.us.r-project.org")
-  require("dplyr", quietly = TRUE)
-}
-if (!require("cowplot", quietly = TRUE)){
-  install.packages("cowplot", repos = "http://cran.us.r-project.org")
-  require("cowplot", quietly = TRUE)
-}
-if (!require("ggiraphExtra", quietly = TRUE)){
-  install.packages("ggiraphExtra", repos = "http://cran.us.r-project.org")
-  require("ggiraphExtra", quietly = TRUE)
-}
-if (!require("lattice", quietly = TRUE)){
-  install.packages("lattice", repos = "http://cran.us.r-project.org")
-  require("lattice", quietly = TRUE)
-}
-if (!require("ggrepel", quietly = TRUE)){
-  install.packages("ggrepel", repos = "http://cran.us.r-project.org")
-  require("ggrepel", quietly = TRUE)
-}
-if (!require("gridExtra", quietly = TRUE)){
-  install.packages("gridExtra", repos = "http://cran.us.r-project.org")
-  require("gridExtra", quietly = TRUE)
-}
+library("ggplot2")
+library("gggenes")
+# library("dplyr")
+library("cowplot")
+# library("ggiraphExtra")
+# library("lattice")
+library("ggrepel")
+library("gridExtra")
 
 
 f_plot <- function(in_file, out_file){
